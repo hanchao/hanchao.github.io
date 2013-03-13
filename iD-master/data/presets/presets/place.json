@@ -1,0 +1,15 @@
+{
+    "name": "place",
+    "match": {
+        "geometry": [
+            "point",
+            "area"
+        ],
+        "tags": {
+            "place": "*"
+        }
+    },
+    "form": [
+        "place"
+    ]
+}

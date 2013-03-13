@@ -1,0 +1,15 @@
+{
+    "name": "tourism",
+    "match": {
+        "geometry": [
+            "point",
+            "area"
+        ],
+        "tags": {
+            "tourism": "*"
+        }
+    },
+    "form": [
+        "tourism"
+    ]
+}

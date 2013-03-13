@@ -1,0 +1,17 @@
+{
+    "name": "forest",
+    "match": {
+        "geometry": [
+            "point",
+            "area"
+        ],
+        "tags": {
+            "landuse": "forest"
+        },
+        "terms": []
+    },
+    "form": [
+        "wood"
+    ],
+    "icon": "park2"
+}

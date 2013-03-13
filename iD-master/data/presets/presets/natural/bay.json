@@ -1,0 +1,14 @@
+{
+    "name": "bay",
+    "match": {
+        "geometry": [
+            "point",
+            "area"
+        ],
+        "terms": [
+        ],
+        "tags": {
+            "natural": "bay"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "orchard",
+    "match": {
+        "geometry": [
+            "point",
+            "area"
+        ],
+        "tags": {
+            "landuse": "orchard"
+        },
+        "terms": [
+        ]
+    },
+    "form": [
+    ]
+}

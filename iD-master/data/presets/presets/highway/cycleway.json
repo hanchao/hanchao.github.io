@@ -1,0 +1,19 @@
+{
+    "name": "cycle path",
+    "match": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "highway": "cycleway"
+        },
+        "terms": []
+    },
+    "icon": "highway-cycleway",
+    "form": [
+        "oneway",
+        "roadtype",
+        "access",
+        "surface"
+    ]
+}

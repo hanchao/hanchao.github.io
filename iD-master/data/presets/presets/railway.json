@@ -1,0 +1,17 @@
+{
+    "name": "railway",
+    "match": {
+        "geometry": [
+            "point",
+            "vertex",
+            "line",
+            "area"
+        ],
+        "tags": {
+            "railway": "*"
+        }
+    },
+    "form": [
+        "railway"
+    ]
+}

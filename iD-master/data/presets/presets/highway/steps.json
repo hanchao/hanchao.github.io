@@ -1,0 +1,19 @@
+{
+    "name": "steps",
+    "match": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "highway": "steps"
+        },
+        "terms": [
+            "stairs",
+            "staircase"
+        ]
+    },
+    "form": [
+        "access",
+        "surface"
+    ]
+}

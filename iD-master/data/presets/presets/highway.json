@@ -1,0 +1,17 @@
+{
+    "name": "highway",
+    "match": {
+        "geometry": [
+            "point",
+            "vertex",
+            "line",
+            "area"
+        ],
+        "tags": {
+            "highway": "*"
+        }
+    },
+    "form": [
+        "highway"
+    ]
+}

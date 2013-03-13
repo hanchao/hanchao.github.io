@@ -1,0 +1,24 @@
+{
+    "name": "post box",
+    "match": {
+        "geometry": [
+            "point"
+        ],
+        "tags": {
+            "amenity": "post_box"
+        },
+        "terms": [
+            "letter drop",
+            "letterbox",
+            "mail drop",
+            "mailbox",
+            "pillar box",
+            "postbox"
+        ]
+    },
+    "icon": "post",
+    "form": [
+        "operator",
+        "collection_times"
+    ]
+}

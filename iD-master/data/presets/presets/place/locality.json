@@ -1,0 +1,13 @@
+{
+    "name": "locality",
+    "match": {
+        "geometry": [
+            "point",
+            "area"
+        ],
+        "tags": {
+            "place": "locality"
+        }
+    },
+    "icon": "marker"
+}

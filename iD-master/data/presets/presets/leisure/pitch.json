@@ -1,0 +1,18 @@
+{
+    "name": "sport pitch",
+    "match": {
+        "geometry": [
+            "point",
+            "area"
+        ],
+        "tags": {
+            "leisure": "pitch"
+        },
+        "terms": []
+    },
+    "icon": "pitch",
+    "form": [
+        "sport",
+        "surface"
+    ]
+}

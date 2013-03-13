@@ -1,0 +1,16 @@
+{
+    "name": "residential",
+    "match": {
+        "geometry": [
+            "point",
+            "area"
+        ],
+        "tags": {
+            "landuse": "residential"
+        },
+        "terms": [
+        ]
+    },
+    "form": [
+    ]
+}

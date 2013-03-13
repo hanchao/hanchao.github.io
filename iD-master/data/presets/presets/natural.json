@@ -1,0 +1,15 @@
+{
+    "name": "natural",
+    "match": {
+        "geometry": [
+            "point",
+            "area"
+        ],
+        "tags": {
+            "natural": "*"
+        }
+    },
+    "form": [
+        "natural"
+    ]
+}

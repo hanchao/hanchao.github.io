@@ -1,0 +1,16 @@
+{
+    "name": "wetland",
+    "match": {
+        "geometry": [
+            "point",
+            "area"
+        ],
+        "tags": {
+            "natural": "wetland"
+        },
+        "terms": []
+    },
+    "form": [
+        "wetland"
+    ]
+}

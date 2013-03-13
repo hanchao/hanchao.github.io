@@ -1,0 +1,20 @@
+{
+    "name": "trunk highway",
+    "match": {
+        "geometry": [
+            "line"
+        ],
+        "tags": {
+            "highway": "trunk"
+        },
+        "terms": []
+    },
+    "icon": "highway-trunk",
+    "form": [
+        "oneway",
+        "roadtype",
+        "access",
+        "maxspeed",
+        "surface"
+    ]
+}

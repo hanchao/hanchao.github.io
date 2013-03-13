@@ -1,0 +1,16 @@
+{
+    "name": "industrial",
+    "match": {
+        "geometry": [
+            "point",
+            "area"
+        ],
+        "tags": {
+            "landuse": "industrial"
+        },
+        "terms": [
+        ]
+    },
+    "form": [
+    ]
+}

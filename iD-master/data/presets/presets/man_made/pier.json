@@ -1,0 +1,12 @@
+{
+    "name": "pier",
+    "match": {
+        "geometry": [
+            "line",
+            "area"
+        ],
+        "tags": {
+            "man_made": "pier"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "building",
+    "match": {
+        "geometry": [
+            "area"
+        ],
+        "tags": {
+            "building": "*"
+        },
+        "terms": []
+    },
+    "icon": "warehouse",
+    "form": [
+        "building_yes",
+        "levels"
+    ],
+    "additional": [
+        "address",
+        "telephone",
+        "website",
+        "wikipedia",
+        "elevation",
+        "source"
+    ]
+}

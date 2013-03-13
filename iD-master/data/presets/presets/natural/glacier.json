@@ -1,0 +1,13 @@
+{
+    "name": "glacier",
+    "match": {
+        "geometry": [
+            "area"
+        ],
+        "terms": [
+        ],
+        "tags": {
+            "natural": "glacier"
+        }
+    }
+}

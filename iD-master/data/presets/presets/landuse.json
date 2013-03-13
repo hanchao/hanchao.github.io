@@ -1,0 +1,15 @@
+{
+    "name": "landuse",
+    "match": {
+        "geometry": [
+            "point",
+            "area"
+        ],
+        "tags": {
+            "landuse": "*"
+        }
+    },
+    "form": [
+        "landuse"
+    ]
+}
