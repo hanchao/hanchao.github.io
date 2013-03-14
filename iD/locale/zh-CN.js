@@ -1,4 +1,4 @@
-locale.cn = {
+locale.zh-CN = {
     modes: {
         add_area: {
             title: "面",
