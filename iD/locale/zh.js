@@ -161,7 +161,7 @@ locale.zh = {
 
     contributors: {
         list: "查看{users}的贡献",
-        truncated_list: "查看{count}个其他成员{users}的贡献"
+        truncated_list: "查看{users}和其他{count}个成员的贡献"
     },
 
     geocoder: {
@@ -232,7 +232,7 @@ locale.zh = {
         untagged_point: "未标记点，他并不是线或面的一部分",
         untagged_line: "未标记的线",
         untagged_area: "未标记的面",
-        many_deletions: "您正在删除{n}个对象。你确定你想这样做吗？所有的其他openstreetmap.org用户都将在地图上看不到这些数据。You're deleting {n} objects. Are you sure you want to do this? This will delete them from the map that everyone else sees on openstreetmap.org.",
+        many_deletions: "您正在删除{n}个对象。你确定你想这样做吗？所有的其他openstreetmap.org用户都将在地图上看不到这些数据。",
         tag_suggests_area: "{tag}这个标签建议使用在面上，但是他不是一个面",
         deprecated_tags: "已过时标签：{tags}"
     },
