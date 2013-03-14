@@ -30,88 +30,88 @@ locale.zh = {
     operations: {
         add: {
             annotation: {
-                point: "Added a point.",
-                vertex: "Added a node to a way."
+                point: "添加一个点。",
+                vertex: "给线添加一个节点。"
             }
         },
         start: {
             annotation: {
-                line: "Started a line.",
-                area: "Started an area."
+                line: "开始一条线。",
+                area: "开始一个面。"
             }
         },
         'continue': {
             annotation: {
-                line: "Continued a line.",
-                area: "Continued an area."
+                line: "接着绘制一条线。",
+                area: "接着绘制一个面。"
             }
         },
         cancel_draw: {
-            annotation: "Canceled drawing."
+            annotation: "取消绘图。"
         },
         change_tags: {
-            annotation: "Changed tags."
+            annotation: "改变标签。"
         },
         circularize: {
-            title: "Circularize",
-            description: "Make this round.",
+            title: "圆",
+            description: "制作圆形。",
             key: "O",
             annotation: {
-                line: "Made a line circular.",
-                area: "Made an area circular."
+                line: "把线制作成圆形。",
+                area: "把面制作成圆形。"
             }
         },
         orthogonalize: {
-            title: "Orthogonalize",
-            description: "Square these corners.",
+            title: "直角化",
+            description: "边角直角化。",
             key: "Q",
             annotation: {
-                line: "Squared the corners of a line.",
-                area: "Squared the corners of an area."
+                line: "线直角化。",
+                area: "面直角化。"
             }
         },
         'delete': {
             title: "删除",
             description: "从地图中删除此。",
             annotation: {
-                point: "Deleted a point.",
-                vertex: "Deleted a node from a way.",
-                line: "Deleted a line.",
-                area: "Deleted an area.",
-                relation: "Deleted a relation.",
-                multiple: "Deleted {n} objects."
+                point: "删除一个点。",
+                vertex: "删除线上一个结点。",
+                line: "删除一条点。",
+                area: "删除一个面。",
+                relation: "删除一个关系。",
+                multiple: "删除{n}个对象。"
             }
         },
         connect: {
             annotation: {
-                point: "Connected a way to a point.",
-                vertex: "Connected a way to another.",
-                line: "Connected a way to a line.",
-                area: "Connected a way to an area."
+                point: "连接线到一个点上。",
+                vertex: "连接线到另一条线上。",
+                line: "连接线到一条线上。",
+                area: "连接线到一个面上。"
             }
         },
         disconnect: {
             title: "断开",
             description: "断开这些线。",
             key: "D",
-            annotation: "Disconnected ways."
+            annotation: "断开线。"
         },
         merge: {
             title: "合并",
             description: "合并这些线。",
             key: "C",
-            annotation: "Merged {n} lines."
+            annotation: "合并{n}条线。"
         },
         move: {
             title: "移动",
             description: "移动到其他的位置。",
             key: "M",
             annotation: {
-                point: "Moved a point.",
-                vertex: "Moved a node in a way.",
-                line: "Moved a line.",
-                area: "Moved an area.",
-                multiple: "Moved multiple objects."
+                point: "移动一个点。",
+                vertex: "移动线上一个结点",
+                line: "移动一条线。",
+                area: "移动一个面。",
+                multiple: "移动多个对象。"
             }
         },
         rotate: {
@@ -119,31 +119,31 @@ locale.zh = {
             description: "绕其中心点旋转该对象。",
             key: "R",
             annotation: {
-                line: "Rotated a line.",
-                area: "Rotated an area."
+                line: "旋转一条线。",
+                area: "旋转一个面。"
             }
         },
         reverse: {
-            title: "逆转",
+            title: "反转",
             description: "这条线走在相反的方向。",
             key: "V",
-            annotation: "Reversed a line."
+            annotation: "反转一条线。"
         },
         split: {
             title: "分割",
             description: "在这点上分成两条线。",
             key: "X",
-            annotation: "Split a way."
+            annotation: "分割一条线。"
         }
     },
 
     nothing_to_undo: "没有可撤消的。",
     nothing_to_redo: "没有可重做的。",
 
-    just_edited: "你正在编辑的OpenStreetMap的！",
-    browser_notice: "This editor is supported in Firefox, Chrome, Safari, Opera, and Internet Explorer 9 and above. Please upgrade your browser or use Potlatch 2 to edit the map.",
-    view_on_osm: "View on OSM",
-    zoom_in_edit: "zoom in to edit the map",
+    just_edited: "你正在编辑的OpenStreetMap！",
+    browser_notice: "该编辑器支持Firefox、Chrome、Safari、Opera和Internet Explorer9及以上的浏览器。请升级您的浏览器或者使用Potlatch 2来编辑地图。",
+    view_on_osm: "在OSM上查看",
+    zoom_in_edit: "放大编辑地图",
     logout: "退出",
     report_a_bug: "报告bug",
 
@@ -161,7 +161,7 @@ locale.zh = {
 
     contributors: {
         list: "查看{users}的贡献",
-        truncated_list: "Viewing contributions by {users} and {count} others"
+        truncated_list: "查看{count}个其他成员{users}的贡献"
     },
 
     geocoder: {
@@ -224,16 +224,16 @@ locale.zh = {
 
     tag_reference: {
         description: "描述",
-        on_wiki: "{tag} on wiki.osm.org",
-        used_with: "used with {type}"
+        on_wiki: "在wiki.osm.org查看{tag}",
+        used_with: "使用{type}"
     },
 
     validations: {
-        untagged_point: "未标记点，他并不是线或面的一部分。",
+        untagged_point: "未标记点，他并不是线或面的一部分",
         untagged_line: "未标记的线",
         untagged_area: "未标记的面",
         many_deletions: "您正在删除{n}个对象。你确定你想这样做吗？所有的其他openstreetmap.org用户都将在地图上看不到这些数据。You're deleting {n} objects. Are you sure you want to do this? This will delete them from the map that everyone else sees on openstreetmap.org.",
-        tag_suggests_area: "The tag {tag} suggests line should be area, but it is not an area",
+        tag_suggests_area: "{tag}这个标签建议使用在面上，但是他不是一个面",
         deprecated_tags: "已过时标签：{tags}"
     },
 
