@@ -2,28 +2,28 @@ locale.zh = {
     modes: {
         add_area: {
             title: "面",
-            description: "Add parks, buildings, lakes or other areas to the map.",
-            tail: "Click on the map to start drawing an area, like a park, lake, or building."
+            description: "在地图上添加公园，建筑物，湖泊或其他面状区域。",
+            tail: "在地图上点击开始绘制一个区域，像一个公园，湖边，或建筑物。"
         },
         add_line: {
             title: "线",
-            description: "Add highways, streets, pedestrian paths, canals or other lines to the map.",
-            tail: "Click on the map to start drawing a road, path, or route."
+            description: "在地图上添加公路，街道，行人路，运河或其他线路。",
+            tail: "在地图上点击开始绘制道路，路径或路线。"
         },
         add_point: {
             title: "点",
-            description: "Add restaurants, monuments, postal boxes or other points to the map.",
-            tail: "Click on the map to add a point."
+            description: "在地图上添加餐馆，古迹，邮政箱或其他点。",
+            tail: "在地图上点击添加一个点。"
         },
         browse: {
             title: "浏览",
-            description: "Pan and zoom the map."
+            description: "平移和缩放地图。"
         },
         draw_area: {
-            tail: "Click to add points to your area. Click the first point to finish the area."
+            tail: "通过点击给你的面添加结点。单击第一个点完成面的绘制。"
         },
         draw_line: {
-            tail: "Click to add more points to the line. Click on other lines to connect to them, and double-click to end the line."
+            tail: "通过单击给线添加更多的点。点击其他线路连接它们，双击结束。"
         }
     },
 
@@ -72,7 +72,7 @@ locale.zh = {
         },
         'delete': {
             title: "删除",
-            description: "Remove this from the map.",
+            description: "从地图中删除此。",
             annotation: {
                 point: "Deleted a point.",
                 vertex: "Deleted a node from a way.",
@@ -92,19 +92,19 @@ locale.zh = {
         },
         disconnect: {
             title: "断开",
-            description: "Disconnect these ways from each other.",
+            description: "断开这些线。",
             key: "D",
             annotation: "Disconnected ways."
         },
         merge: {
-            title: "合成",
-            description: "Merge these lines.",
+            title: "合并",
+            description: "合并这些线。",
             key: "C",
             annotation: "Merged {n} lines."
         },
         move: {
             title: "移动",
-            description: "Move this to a different location.",
+            description: "移动到其他的位置。",
             key: "M",
             annotation: {
                 point: "Moved a point.",
@@ -115,8 +115,8 @@ locale.zh = {
             }
         },
         rotate: {
-            title: "Rotate",
-            description: "Rotate this object around its centre point.",
+            title: "旋转",
+            description: "绕其中心点旋转该对象。",
             key: "R",
             annotation: {
                 line: "Rotated a line.",
@@ -124,97 +124,97 @@ locale.zh = {
             }
         },
         reverse: {
-            title: "Reverse",
-            description: "Make this line go in the opposite direction.",
+            title: "逆转",
+            description: "这条线走在相反的方向。",
             key: "V",
             annotation: "Reversed a line."
         },
         split: {
             title: "分割",
-            description: "Split this into two ways at this point.",
+            description: "在这点上分成两条线。",
             key: "X",
             annotation: "Split a way."
         }
     },
 
-    nothing_to_undo: "Nothing to undo.",
-    nothing_to_redo: "Nothing to redo.",
+    nothing_to_undo: "没有可撤消的。",
+    nothing_to_redo: "没有可重做的。",
 
-    just_edited: "You Just Edited OpenStreetMap!",
+    just_edited: "你正在编辑的OpenStreetMap的！",
     browser_notice: "This editor is supported in Firefox, Chrome, Safari, Opera, and Internet Explorer 9 and above. Please upgrade your browser or use Potlatch 2 to edit the map.",
     view_on_osm: "View on OSM",
     zoom_in_edit: "zoom in to edit the map",
-    logout: "logout",
-    report_a_bug: "report a bug",
+    logout: "退出",
+    report_a_bug: "报告bug",
 
     commit: {
-        title: "Save Changes",
-        description_placeholder: "Brief description of your contributions",
-        upload_explanation: "The changes you upload as {user} will be visible on all maps that use OpenStreetMap data.",
-        save: "Save",
-        cancel: "Cancel",
-        warnings: "Warnings",
-        modified: "Modified",
-        deleted: "Deleted",
-        created: "Created"
+        title: "保存更改",
+        description_placeholder: "简要说明你的贡献",
+        upload_explanation: "{user}你上传的更新将会显示在所有使用OpenStreetMap数据的地图上。",
+        save: "保存",
+        cancel: "取消",
+        warnings: "警告",
+        modified: "修改的",
+        deleted: "删除的",
+        created: "创建的"
     },
 
     contributors: {
-        list: "Viewing contributions by {users}",
+        list: "查看{users}的贡献",
         truncated_list: "Viewing contributions by {users} and {count} others"
     },
 
     geocoder: {
-        title: "查询位置",
-        placeholder: "Find a place",
-        no_results: "Couldn't locate a place named '{name}'"
+        title: "查找位置",
+        placeholder: "查找位置",
+        no_results: "无法找到叫'{name}'的地方"
     },
 
     geolocate: {
-        title: "Show My Location"
+        title: "显示我的位置"
     },
 
     inspector: {
-        no_documentation_combination: "There is no documentation available for this tag combination",
-        no_documentation_key: "There is no documentation available for this key",
-        new_tag: "New Tag",
-        edit_tags: "Edit tags",
-        okay: "Okay",
-        view_on_osm: "View on OSM",
-        name: "Name",
-        editing: "Editing {type}",
-        additional: "Additional tags",
-        choose: "What are you adding?",
-        results: "{n} results for {search}",
-        reference: "View on OpenStreetMap Wiki →"
+        no_documentation_combination: "没有关于此标签组合的文档",
+        no_documentation_key: "没有关于此键的文档",
+        new_tag: "新建标签",
+        edit_tags: "编辑标签",
+        okay: "确定",
+        view_on_osm: "在OSM上查看",
+        name: "名称",
+        editing: "编辑 {type}",
+        additional: "附加标签",
+        choose: "你添加的是什么？",
+        results: "{search}共有{n}个结果",
+        reference: "查看 OpenStreetMap Wiki →"
     },
 
     background: {
-        title: "Background",
-        description: "Background Settings",
-        percent_brightness: "{opacity}% brightness",
-        fix_misalignment: "Fix misalignment",
-        reset: "reset"
+        title: "背景",
+        description: "设置背景",
+        percent_brightness: "{opacity}% 亮度",
+        fix_misalignment: "修复错位",
+        reset: "重置"
     },
 
     restore: {
-        description: "You have unsaved changes from a previous editing session. Do you wish to restore these changes?",
-        restore: "Restore",
-        reset: "Reset"
+        description: "上次您有未保存的更改。你想恢复这些更改吗？",
+        restore: "恢复",
+        reset: "重置"
     },
 
     save: {
         title: "保存",
-        help: "Save changes to OpenStreetMap, making them visible to other users.",
-        no_changes: "No changes to save.",
-        error: "An error occurred while trying to save",
-        uploading: "Uploading changes to OpenStreetMap.",
-        unsaved_changes: "You have unsaved changes"
+        help: "保存更改到OpenStreetMap上，使其他用户可已看见。",
+        no_changes: "没有可以保存的更改。",
+        error: "保存发生错误",
+        uploading: "正在向OpenStreetMap上传更改。",
+        unsaved_changes: "您有未保存的更改"
     },
 
     splash: {
         welcome: "欢迎使用OpenStreetMap编辑器iD",
-        text: "This is development version {version}. For more information see {website} and report bugs at {github}."
+        text: "这是开发版本{version}。欲了解更多信息，请参阅{website}，在{github}报告bug。"
     },
 
     source_switch: {
@@ -223,23 +223,23 @@ locale.zh = {
     },
 
     tag_reference: {
-        description: "Description",
+        description: "描述",
         on_wiki: "{tag} on wiki.osm.org",
         used_with: "used with {type}"
     },
 
     validations: {
-        untagged_point: "Untagged point which is not part of a line or area",
-        untagged_line: "Untagged line",
-        untagged_area: "Untagged area",
-        many_deletions: "You're deleting {n} objects. Are you sure you want to do this? This will delete them from the map that everyone else sees on openstreetmap.org.",
+        untagged_point: "未标记点，他并不是线或面的一部分。",
+        untagged_line: "未标记的线",
+        untagged_area: "未标记的面",
+        many_deletions: "您正在删除{n}个对象。你确定你想这样做吗？所有的其他openstreetmap.org用户都将在地图上看不到这些数据。You're deleting {n} objects. Are you sure you want to do this? This will delete them from the map that everyone else sees on openstreetmap.org.",
         tag_suggests_area: "The tag {tag} suggests line should be area, but it is not an area",
-        deprecated_tags: "Deprecated tags: {tags}"
+        deprecated_tags: "已过时标签：{tags}"
     },
 
     zoom: {
-        'in': "Zoom In",
-        out: "Zoom Out"
+        'in': "放大",
+        out: "缩小"
     },
 
     // We expect these to be extracted at some point.
