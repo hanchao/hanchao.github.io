@@ -1,4 +1,4 @@
-window.locale = { _current: 'en' };
+window.locale = { _current: 'cn' };
 
 locale.current = function(_) {
     if (!arguments.length) return locale._current;
