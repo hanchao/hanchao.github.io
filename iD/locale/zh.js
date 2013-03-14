@@ -12,7 +12,7 @@ locale.zh = {
         },
         add_point: {
             title: "点",
-            description: "在地图上添加餐馆，古迹，邮政箱或其他点。",
+            description: "在地图上添加餐馆，古迹，邮箱或其他点。",
             tail: "在地图上点击添加一个点。"
         },
         browse: {
