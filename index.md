@@ -8,9 +8,9 @@ title: hanchao blog
 <ul class="posts">
   {% for post in site.posts %}
     <li>
-    	<h1><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h1>
+    	<h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
    	 <span>{{ post.date | date_to_string }}</span> 
-    	<p>{{ post.date }}</p>
+    	<p>{{ page.content }}</p>
     </li>
   {% endfor %}
 </ul>
