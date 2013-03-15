@@ -6,4 +6,6 @@ layout: list
 {% assign list = site.posts %}
 {% assign preview = true %}
 
+<!-- 博客分类列表 -->
+{{ content }}
 
