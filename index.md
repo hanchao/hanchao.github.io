@@ -10,7 +10,7 @@ title: hanchao blog
     <li>
     	<h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
     	<p>{{ post.content }}</p>
-      <span>{{ post.date | date_to_string }}</span> 
+      <p align="left">{{ post.date | date_to_string }}</p> 
     </li>
   {% endfor %}
 </ul>
