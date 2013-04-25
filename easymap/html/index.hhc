@@ -1,0 +1,853 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="命名空间"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="命名空间列表"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap"><param name="Local" value="namespace_sky_map.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Objects"><param name="Local" value="namespace_sky_map_1_1_objects.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="命名空间成员"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="全部"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="a"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="namespacemembers_0x62.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c"><param name="Local" value="namespacemembers_0x63.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="d"><param name="Local" value="namespacemembers_0x64.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="e"><param name="Local" value="namespacemembers_0x65.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="f"><param name="Local" value="namespacemembers_0x66.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="namespacemembers_0x67.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="h"><param name="Local" value="namespacemembers_0x68.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="i"><param name="Local" value="namespacemembers_0x69.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="l"><param name="Local" value="namespacemembers_0x6c.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m"><param name="Local" value="namespacemembers_0x6d.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="n"><param name="Local" value="namespacemembers_0x6e.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="o"><param name="Local" value="namespacemembers_0x6f.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="p"><param name="Local" value="namespacemembers_0x70.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="q"><param name="Local" value="namespacemembers_0x71.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="namespacemembers_0x72.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="s"><param name="Local" value="namespacemembers_0x73.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="t"><param name="Local" value="namespacemembers_0x74.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="u"><param name="Local" value="namespacemembers_0x75.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="v"><param name="Local" value="namespacemembers_0x76.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="z"><param name="Local" value="namespacemembers_0x7a.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="枚举"><param name="Local" value="namespacemembers_enum.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="枚举值"><param name="Local" value="namespacemembers_eval.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="a"><param name="Local" value="namespacemembers_eval.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="namespacemembers_eval_0x62.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c"><param name="Local" value="namespacemembers_eval_0x63.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="d"><param name="Local" value="namespacemembers_eval_0x64.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="e"><param name="Local" value="namespacemembers_eval_0x65.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="f"><param name="Local" value="namespacemembers_eval_0x66.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="namespacemembers_eval_0x67.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="h"><param name="Local" value="namespacemembers_eval_0x68.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="i"><param name="Local" value="namespacemembers_eval_0x69.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="l"><param name="Local" value="namespacemembers_eval_0x6c.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m"><param name="Local" value="namespacemembers_eval_0x6d.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="n"><param name="Local" value="namespacemembers_eval_0x6e.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="o"><param name="Local" value="namespacemembers_eval_0x6f.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="p"><param name="Local" value="namespacemembers_eval_0x70.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="namespacemembers_eval_0x72.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="s"><param name="Local" value="namespacemembers_eval_0x73.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="t"><param name="Local" value="namespacemembers_eval_0x74.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="u"><param name="Local" value="namespacemembers_eval_0x75.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="v"><param name="Local" value="namespacemembers_eval_0x76.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="z"><param name="Local" value="namespacemembers_eval_0x7a.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="类"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="类列表"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap"><param name="Local" value="namespace_sky_map.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Objects"><param name="Local" value="namespace_sky_map_1_1_objects.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="API"><param name="Local" value="class_sky_map_1_1_objects_1_1_a_p_i.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CoordConverter"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_converter.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CoordConverter"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_converter.html#a7c2c13d540e4a5da934cca9f205fc1b8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Translate"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_converter.html#ac7a009b519067624284d5186576d9c0d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CoordSysDes"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_converter.html#a30df7322b521d7e18e7fdb03e4a4abd2"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CoordSysSrc"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_converter.html#ae429f4f115ccca8fd0140a1b966793ab"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoTransMethod"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_converter.html#aaecccfbb45f27029d7a4418d758fb840"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoTransParams"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_converter.html#acae89222ab95ae15e00f3f5dd72a8195"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsValid"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_converter.html#a1a12c174b6a5add61728ec8934da883c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TranslatorSatus"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_converter.html#a0074a81efb1ee873d3c6ecdc34b34682"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CoordSys"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_sys.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CoordSys"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_sys.html#aed8eb5f5fdada509cb5b74c4e2e7c9a9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Equals"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_sys.html#a43492b146dc7b85c66aaa7262c2e9763"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetHashCode"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_sys.html#a8085d2cd1f05df949ae982b61f7d05e8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SaveAsPrj"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_sys.html#a7bd82e837ac675fd51138985880d8cc6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DistUnit"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_sys.html#afde9b09b8e132be969c0310e4989227d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Type"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_sys.html#a4f36666aff5921f9b726216c5dc3f4b7"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Unit"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_sys.html#af130610c09f697a7696781a30fea5376"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CoordSysFactory"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_sys_factory.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DataCursor"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AddFeature"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#afc52cc656fa8810f5ecbb3f2620be69c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Close"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#abf42f5664c7ca43d55b262d658fdbe84"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteAllFeature"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#a71a72da4391fccc35c1edd8d164774ad"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteFeature"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#a6989c5b810f7d017db477b206d6368dc"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#aff5c437505544e0f946ec7e80effead9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFeature"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#ad997903eee33c9ad11c0897113288b0a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFieldIndexbyName"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#a91e33f01fe67daad905dc82ad3d3c484"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFieldInfoAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#ac04478c422408c081221d71c3323ad52"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetID"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#affdf1497755ea39e5a74d758503d7b23"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MoveFirst"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#a86e6f8f1504fa2c8e2638768395af29f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MoveLast"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#a7188d222cbd9fa87eeca816b4fe38963"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MoveNext"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#a9ec003c34a8d2d4fa56a3ea6f7506bc9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MovePrev"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#af8a039f259e8438328cd72c455972737"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SeekID"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#a63d38be64ba9d510a7784cf76cf9df43"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetFeature"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#aaa4f5887413c2bb1ab8d4243d9aae922"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FieldCount"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#a64c3f881cdd960bbae98cec87bf2c726"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsBOF"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#afa17f7d453889e92cace9aa5b7c5ec64"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsEmpty"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#a1ce242a96a48f09d29acef4622a63b07"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsEOF"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#a582b37a188e23bfafb98b95669fe86b6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Layer"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#a4fd9fbfbd0c2c31a6303db23b1bb610c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RecordCount"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html#a3ade92c38f47430a94c1b4914f3595ef"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Feature"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Feature"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#a112f8473971b11bf137da098fde60393"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFieldBooleanValue"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#aed7cd8f73dcd6647d12c1fefc047206d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFieldBooleanValueAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#a18b415c863cb728bc04b2b2af522e30d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFieldDoubleValue"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#a96b47fbaedc1911d1a0c7ea155aca0f7"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFieldDoubleValueAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#a44e8a41bc3cdc889a2f061ef32a49251"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFieldIndexbyName"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#a0f79bf23de3647b30ef0c626c31a9022"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFieldIntValue"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#ae9a32d69e249a2dc82cb416c99c6c879"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFieldIntValueAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#aab9659d354695d6e88d0f661a9d09e00"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFieldNameAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#aa5ec72f64f6265e3a3e5412305a21632"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFieldStringValue"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#ab653c90dc0118e304f1c85fe7fd6c387"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFieldStringValueAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#a799f73ce1795823328173749c69a5911"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFieldTypeAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#a7e23fc5ccf846e350b39ad7230e8bb8a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFieldValue"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#a730059ae12b40a45b9df5797a3758244"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFieldValueAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#a00f2b9da55284a1c70e47b91ed41cbdb"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetGeometry"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#af66601aed7dcde69fa69868b70c941cb"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PrepareField"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#a9d097dbed4e19a814a3d192fcb999f51"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetFieldBooleanValue"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#a15b9bf31ae321de12ecbc9e8daba754b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetFieldBooleanValueAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#a468f3641f0bebdaf91b0009c95edeaf0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetFieldDoubleValue"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#a56ce30b9ec6b0205e683487bc2fec6a0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetFieldDoubleValueAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#ae51172a69b1f0d28e2ad272257699493"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetFieldIntValue"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#a09e5d95b3eb5d95f6c7bd54976ecb04f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetFieldIntValueAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#a35374b455c9a46795e3120815f8498a6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetFieldStringValue"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#ab0d8ace2e4d49a94a61ccdc5a57b0243"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetFieldStringValueAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#ad366887a972253aa67851b1f7b688f0f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetFieldValue"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#acac37f446c711e03dbbbec83c0c553a7"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetFieldValueAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#adeed01da221f673843a21db2e158d8eb"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetGeometry"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#a05fab25e46f71a4cb88cd85781b8f47a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FieldCount"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html#ad47d5159613aaf540e54c6e207875aab"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="FieldInfo"><param name="Local" value="class_sky_map_1_1_objects_1_1_field_info.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="bRequired"><param name="Local" value="class_sky_map_1_1_objects_1_1_field_info.html#a413eb271f92297835900d7155405513f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="nType"><param name="Local" value="class_sky_map_1_1_objects_1_1_field_info.html#af6f48aae63d52b5a094167380cf372f4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="strDefaultValue"><param name="Local" value="class_sky_map_1_1_objects_1_1_field_info.html#a7c471d9dca1c99ed993c4a3b4b4c2364"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="strDescription"><param name="Local" value="class_sky_map_1_1_objects_1_1_field_info.html#a6eaf5781ab8c5c0ebd5c48246b9b2deb"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="strForeignName"><param name="Local" value="class_sky_map_1_1_objects_1_1_field_info.html#aa406cca7e57b5741a6082f7b09a0e06c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="strName"><param name="Local" value="class_sky_map_1_1_objects_1_1_field_info.html#a05b012474690ea7bfbd19c2ae7513671"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="strSelections"><param name="Local" value="class_sky_map_1_1_objects_1_1_field_info.html#a7868fd6e917331436fb45a6ad28e1d74"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoCoordSys"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_coord_sys.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoCoordSys"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_coord_sys.html#ae81f5c7efe90cdeb38ff29328a6049d7"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Axis"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_coord_sys.html#a8306fd29822e122b9544ef7ca281c022"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DATUM"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_coord_sys.html#a594ec4c64ac7b9c025682bef6b10d2be"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Flatten"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_coord_sys.html#aaff4d71357c731b361e54d579ccfb4a5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GEOGCS"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_coord_sys.html#abe89e15c2df537667b3edbf37718130d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PRIMEM"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_coord_sys.html#a218ebcc6eb53ab498a58ae8aa7f0f406"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PrimeMeridian"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_coord_sys.html#a533d78a4b1b86d199b5e04785ec8d1fa"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SPHEROID"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_coord_sys.html#a330deff56d94bd3e8873b78372d94cd4"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoLine"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_line.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoLine"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_line.html#a6a247e28ada95341a65e2f2505ca5b4e"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoLine3D"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_line3_d.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoLine3D"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_line3_d.html#a5396d41a303ddca2c6fb3d4a9b0c0dd0"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Geometry"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AddNode"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#abe2d2820a1649ebc769b4df532af1639"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AddNode"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#a5c22c3e38b30069167a4a99b43b7785e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AddSub"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#acbabc7d2ba11123eee847472bc11a27b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Create"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#a1926f58eb3f9eead8eaf1406b85c9b28"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Create"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#a532050a3a60bf0dcc5a524fc3e3cdb0c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DelNode"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#aed2f6b1361f677d4c4af9479e592840b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DelSub"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#aeed10d8c2aad67e5f0417d284ab116ce"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FindNode"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#afe104cff32d470c0daa562240df05ac0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetArea"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#aee0195d278c44f12243243b2e2ed4c13"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetLength"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#a18d19b64339df08320bda8086a31e469"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNode"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#a77a72ae1ace0b8b954ee0f6c034190ab"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="InsertSub"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#a02abb8d0040b9c0480078b41a07348a0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Offset"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#a30e0e3b9452c724cac73a3500b266cb6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetNode"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#a8eabcd1575612f295c4760dd17f922d8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Bounds"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#af59cf69ef1ddaf3989cb86f7737ab576"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="InnerPoint"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#a132325fdc60e29e2b411f8b5435522f2"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Is3D"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#a1dbd71269f5aaac437f53e54af5c06b4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsValid"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#a8e00fca732ee4a4d5ce4d1141e824823"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PointCount"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#a54dcd34d81e7e3ec19f4234e632048a4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Points"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#a891bac0fdf6cedf39d036777f480147c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PolyCounts"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#afc2a2a601b916e9eda3ada55e8cf5897"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Style"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#ab131383150ce994314e23d2f75d43230"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SubCount"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#aca618425929bc4940c8f2dacf5323286"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Type"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html#aefe803ede9d96355297908177ee1888d"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Geometry3D"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry3_d.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AddNode"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry3_d.html#a9aa136abecd0faf8385d9ef091905ee7"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AddNode"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry3_d.html#a19e992d9fbdf5200897235ed977d0936"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AddSub"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry3_d.html#a455bfb42e2a7169ab64a76c002e87596"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Create"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry3_d.html#acf0ce732c3428753f7a4de672b6acb92"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Create"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry3_d.html#a09b9887a672a6d533e382086f2dcd865"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FindNode"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry3_d.html#afd0e0b35a03228e1c88109f7b54bd366"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNode3D"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry3_d.html#ab81e47fcb921ca9fc81f6836465a69cb"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="InsertSub"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry3_d.html#ab0afa1f0b8ed3e1099d58d34b7508de8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetNode"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry3_d.html#a7e778fdfe88edb94d22c5a837c2f1479"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="To2D"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry3_d.html#a2b61e9861cbbd5a0f8ad7482d08dfee3"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Points3D"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry3_d.html#a629b554b3b7d910ce5244c412872dbd1"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoOperator"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_operator.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoPoint"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_point.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoPoint"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_point.html#a535b36ba3293b79f5776a276cfe3d984"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Point"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_point.html#ac6229b0f99ff26eb5553460f767220e0"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoPoint3D"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_point3_d.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoPoint3D"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_point3_d.html#a8dda39b9574666f8dce5f09b2af11e5c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Point"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_point3_d.html#aab9de5ac2922d336cd0034b224588f7c"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoRegion"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_region.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoRegion"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_region.html#a890254ad06bcf72254a947d429be42fa"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoRegion3D"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_region3_d.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoRegion3D"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_region3_d.html#aee9ddda11a76ea6d9273980c941dbb95"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoTransParams"><param name="Local" value="struct_sky_map_1_1_objects_1_1_geo_trans_params.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dRotateX"><param name="Local" value="struct_sky_map_1_1_objects_1_1_geo_trans_params.html#ab312fee171d148ae46dbdeb309203533"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dRotateY"><param name="Local" value="struct_sky_map_1_1_objects_1_1_geo_trans_params.html#a0b4f0e9a92640b8f7a0fb918da2e99cc"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dRotateZ"><param name="Local" value="struct_sky_map_1_1_objects_1_1_geo_trans_params.html#a985eda1933e3232da204b0a05f0f4670"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dScaleDifference"><param name="Local" value="struct_sky_map_1_1_objects_1_1_geo_trans_params.html#aa11fd5f4ce4f94b7752f5d2e9609bef0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dTranslateX"><param name="Local" value="struct_sky_map_1_1_objects_1_1_geo_trans_params.html#ae653689a267021b55bb3228e1e2570e6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dTranslateY"><param name="Local" value="struct_sky_map_1_1_objects_1_1_geo_trans_params.html#a52cf8bfef4b1bf6f74e5170a8531b103"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dTranslateZ"><param name="Local" value="struct_sky_map_1_1_objects_1_1_geo_trans_params.html#a89a483df9b9f530aafe92e2bb98ef6c1"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Layer"><param name="Local" value="class_sky_map_1_1_objects_1_1_layer.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Close"><param name="Local" value="class_sky_map_1_1_objects_1_1_layer.html#ab89e710ea94cf3c0e900da305a436999"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ComputeBounds"><param name="Local" value="class_sky_map_1_1_objects_1_1_layer.html#a27ed292832a5a597a0e95bcfdf6cddf0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CopyTo"><param name="Local" value="class_sky_map_1_1_objects_1_1_layer.html#a733385cc8a3583bababfbbc0a8e80deb"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Open"><param name="Local" value="class_sky_map_1_1_objects_1_1_layer.html#a02305b5b31a40b7a7e6cafb0d11ff2ec"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Save"><param name="Local" value="class_sky_map_1_1_objects_1_1_layer.html#a4b3d4c28337c28ab3084452fedad4bad"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Bounds"><param name="Local" value="class_sky_map_1_1_objects_1_1_layer.html#a54396c7e55fafec57908b49d4da3a227"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CoordSys"><param name="Local" value="class_sky_map_1_1_objects_1_1_layer.html#a23ad8e5f24554fac6c7788687f3afef5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsVisible"><param name="Local" value="class_sky_map_1_1_objects_1_1_layer.html#a624d90703b96792b5b20684aea09de58"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Name"><param name="Local" value="class_sky_map_1_1_objects_1_1_layer.html#a1c441e4e1d33f15dc71b2aeea5d0a2df"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Path"><param name="Local" value="class_sky_map_1_1_objects_1_1_layer.html#a852c792785b1d33f40d1485e498d84ef"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ProviderName"><param name="Local" value="class_sky_map_1_1_objects_1_1_layer.html#a323f7ddc44359710dbfa93c4ed6c9682"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Type"><param name="Local" value="class_sky_map_1_1_objects_1_1_layer.html#aee43488d792ab927bede56bb7f28b93c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="VisibleScaleMax"><param name="Local" value="class_sky_map_1_1_objects_1_1_layer.html#a072131814f31eb861d11a6ffb11be630"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="VisibleScaleMin"><param name="Local" value="class_sky_map_1_1_objects_1_1_layer.html#a1e8ed9db90389afdfc2e88e938e0e9d5"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Layout"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AddLayoutElement"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout.html#a2fbf0e348d6d7c6899509f8fbe2669b5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Close"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout.html#a022dc3974355a5734bf89349b849d56b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetLayoutElementAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout.html#a4ecb417fc45949b1ba45f4ab1a5527e2"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveAllLayoutElement"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout.html#a1b86e644dd4efe2e38355a96869164f4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout.html#a256809bb520960ccb73945e26214a243"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Bounds"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout.html#a27f2f727e01526824d78ef14ea4d51e6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutElementCount"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout.html#ab5ad4bd56ca662316b60a82c784ca9b7"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutMap"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout.html#a501e54c8b36879bb70a60896a608d5d7"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutPaper"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout.html#ade47bf82ec1c97608f41dc31f5cfe944"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutArtText"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_art_text.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutArtText"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_art_text.html#ad2fdd152aa9759a41a8d2d47300a8875"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Style"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_art_text.html#a367772ac8ae65557f0a861e40d82e8b3"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Text"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_art_text.html#ad663e61acf5d9515dfe2175373e10e2c"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutDirection"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_direction.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutDirection"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_direction.html#a7d9abcba90d197f73f32b2b70fa69826"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DirectionType"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_direction.html#a13a568b84993bdcead5813d1ca111516"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutElement"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_element.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Bounds"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_element.html#a0dd274ac10d07b71347f626423bd6740"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Type"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_element.html#a1f3205dae773e6fce5217ce7fd5b05f1"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutLegend"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_legend.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutLegend"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_legend.html#a0aa1f74511ac5c38e7f7dd839a2af849"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutMap"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_map.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewByBounds"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_map.html#a96fdb286b1a9c4a7f9bf8e244ae0af89"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewEntire"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_map.html#af8321dc4320276f8de77fb17822b73e1"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Map"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_map.html#aaa18a76df67eada432cd8e9d55d6fc19"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MapCenter"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_map.html#a89304a3607cef132dc88d5a4b3a9f438"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MapScale"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_map.html#a3cb76c30a7952dfac0b25c0046dc652b"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutPaper"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_paper.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsPortrait"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_paper.html#a1aa79de3b94313fbd499e5ddd6d44f2b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Margin"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_paper.html#aef8a377ac7c759b6ae43584780363796"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PaperFormat"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_paper.html#a316d696b1f56148a80f3e24253f5bf23"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutPrintDocument"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_print_document.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutPrintDocument"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_print_document.html#adb02ed3867cc0b5c3349ab98ecc1fbd2"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnPrintPage"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_print_document.html#acfc0371da26b19f8e24c748978bb1f99"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutView"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_print_document.html#a2b1529543ecad1bc5f7a40733fe87964"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutScale"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_scale.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutScale"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_scale.html#aa5ee48552654c4684cddd59d21fa966b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ScaleType"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_scale.html#a5f085a2d69a6f9de5850f2c0693d4a0b"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutView"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutView"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#ab6a9e65c77eeffa526f499eec02b3ad3"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Attach"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#abc62a98336f38dba50337015f069f5ab"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Detach"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#aafc13cf0918d4ed6b3123689b635765c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetAction"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#a29ca1a3fb5f70d760f6f25eb4adbf2e4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnDoubleClick"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#aae39359584cf595bd358643e9d7483c0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnMouseDown"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#a081bd2ca52f1579691aa3791b8879ca9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnMouseMove"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#a2fe1e0b801223d40c8346ba5890c9820"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnMouseUp"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#aa650f8d600f971f912a61b8d7ed1490f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnPaint"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#a1f1095cc2aa4aeb6847b13c226a14392"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnPaintBackground"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#a241e428c109c3bd95a20134d0df3920f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnResize"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#ad81ee00361b3126af53b42852bf70db0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Refresh"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#a0f7bdf5d69a4037a79f12e55fb427c23"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetAction"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#a0f11878e89ba03db59c4f559fd1175c0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewByBounds"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#a30d878f5d53908b6f448f0e5271e6f6a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewEntire"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#a20667e29125cf968928a0f08256e6dbd"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewOriginal"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#a8dfd5939bc4f17856a730b9198f03c9c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AppendSelectMode"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#a6492631476cb22df3c8bb6712fdcd12d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CoordRatio"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#a0a62494c17d68ac97a26edc3af57c75c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutBounds"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#a7d2093ecb3dca8ea930d737a31ab5ad3"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LayoutCenter"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#aa2eb64031137bf0d04654110b5a9e7c7"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MapLayout"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html#aef90674b05cfcd1725f9e530d09720df"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LineSymbolLib"><param name="Local" value="class_sky_map_1_1_objects_1_1_line_symbol_lib.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Map"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AddLayer"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#ae5f9a1ebd2e738e672df80ec55700c74"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AddLayer"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#a554c507eb73fffdc6be655fd63fa58c2"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Close"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#a08ec762d7978cf758fe3b43bdf47dbf8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ComputeBounds"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#a1336ebef8154d3b4c603ebdfa7dc7d23"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CreateLayer"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#ad8a40127efb7fc5476783d9d6f6f06b8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetLayer"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#ac1bb95423416c2dd4ddcce94f378a948"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetLayer"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#ab89fc714985332b4cfcb48b2ac029a41"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetLayerIndexbyName"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#af776ed5154ca76ab987cbfb9bac2dfe0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MoveBottom"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#a1e7f6c5778e028b3666ed846c5d5d5e0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MoveDown"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#a86e949444fa39343b0c84212d85e32d7"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MoveTo"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#a2b9526056280658a947b49be7e69837d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MoveTop"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#a75eee52d46242df1d74b66e25e14ef2e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MoveUp"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#a3976c103a7d8cec4f2d5e59a62bd866a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Remove"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#a597b463300a2bd2bfaf0a657e77564c2"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveAllLayer"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#a793c54cafdf821fc8b78d0c9f023c7fd"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#a612cf36a4ed6fafbbd15010c688c3a30"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Bounds"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#a6dc309bf59ba738fec7bda1e23c5576a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Center"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#ad64d58cd38f74c838ed284ec54e2b5b5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CoordSys"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#ae8c02cf5e22bb19f22883d2d9eb4a207"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsEmpty"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#acdc22a93913161fa1796f8b29b1b2f74"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LayerCount"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#a1d7eb1cdb513289141aae3f18ec497a9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LayerNames"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#a05303f2b841c247702e2a0c420182c67"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Scale"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#a034a3ce581b1dd33b8280d2cac8790df"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Selection"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#a3e70232798bf218a0f2ba99be01a64cb"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TrackingLayer"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html#a82eb91e9963033d4cf4cba0c51b19637"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MapView"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MapView"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a97b1d6a89d28ac2d38d19ebcfcd0fc03"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Attach"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#ae17c88b49acd506e954489dd1b2b7f62"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CompleteAddObject"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#adaeb787ab588f5327a03b12ef3807d81"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteSelectObject"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a8ec7a334489a2e8af8c484ea02bf7b6c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteSelectObjectVertex"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#ade6310bac9584f8e18f848ba39b32834"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Detach"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a4fb4f6939a79cc4d7780b01f5c90525d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DPToMP"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a34cbe69ab930b622d94d203cab56dbd3"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DPToMP"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#acf7fee18ad7ef0596b2ea2156185d7a5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DPToMP"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a1b4c9ab32acfa8262fb9ab7881705c99"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetAction"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a0cfd8943a51f046b5eed5b138134601d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MPToDP"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a836d3f29fa9d104f59f93b9e708267b1"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MPToDP"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a0f6fc9661041995252752c1e402d559f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MPToDP"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a7db4b1daa7f802761f92cd17904cf10c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnDoubleClick"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a2da1815774d69e6222041a1cd0554486"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnMouseDown"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#abf19cb2b21cc3a2c995bcb1173cbec09"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnMouseMove"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a7eb7ab3d8d2051058f71d1da623d8d78"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnMouseUp"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#ac856696ecf2620332805dec6621b6872"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnPaint"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#af84e13f32d1691dafde2bb55c01dc43b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnPaintBackground"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#ad9a7ef8e890db7bc386932aa907fdc8c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnRedo"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a1707680a1ef10b93f73ea8dc5ab78b5d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnResize"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a80497e4015504a71487a70a86cc1bd93"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnUndo"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a29e77229411bf4067503532387da15ef"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Refresh"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a195e1428c0663d1e21ce8dcee5788663"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RefreshTrackingLayer"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a126831482e5c4981641756c1e4704383"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetAction"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#ae913913db57269a02b689c5ff90b218a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetEditLayer"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a6ed6e394906b70837575dd7eae1f5ba0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetEditLayer"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a70a750b5741acabf423e230d5a1dfa3d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Snap"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a0fe277bb6c244a2cc5c2bab1c31173c0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="StopEditing"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a5ce50faf6e8791771938c64dd056c1ac"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewByBounds"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a28d27d3705be17f455c5052fb354d666"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewEntire"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#abbabfd2d8de733de2ee5dce2728ca8d0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AppendSelectMode"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a88bc5136f543ab8b0a02bc03f75d234c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsEditing"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#af6fba2d0d96e34c418011d72e618e122"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsEnableSnap"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a9e9a3800e7b67501c16125ac9c6f1550"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Map"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a1cf2c7af67fa54d476ef1ecabdf27a3e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MapBounds"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a08855dc92a6aa9408eb845eb3c881108"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MapCenter"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a40ff67c510bf22cbe46b84f11b455e8e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MapScale"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#a66fb8a8c552d52e07baefc35acdc127e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Resource"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#ae07c72005944e4e779dbbee045751ac0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewBounds"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html#af613543096f7c24bba23ae0b8b7707ca"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MarkerSymbolLib"><param name="Local" value="class_sky_map_1_1_objects_1_1_marker_symbol_lib.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Overlap"><param name="Local" value="class_sky_map_1_1_objects_1_1_overlap.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Overlap"><param name="Local" value="class_sky_map_1_1_objects_1_1_overlap.html#a62d93999261b22a2cd6fbdb128c5f801"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Overlay"><param name="Local" value="class_sky_map_1_1_objects_1_1_overlap.html#a7e52febae93ab73cb42481f6bf3f5997"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Point2D"><param name="Local" value="struct_sky_map_1_1_objects_1_1_point2_d.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Point2D"><param name="Local" value="struct_sky_map_1_1_objects_1_1_point2_d.html#a7bff82ebc9a780229719548d8176cb9f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Equals"><param name="Local" value="struct_sky_map_1_1_objects_1_1_point2_d.html#a2f14188a2134a3429caed2743a26bdad"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Offset"><param name="Local" value="struct_sky_map_1_1_objects_1_1_point2_d.html#a6ba3695cea440f19c614a06ea5ca78b0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsEmpty"><param name="Local" value="struct_sky_map_1_1_objects_1_1_point2_d.html#a833372891dc4c6d48b674ccdc5745757"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="X"><param name="Local" value="struct_sky_map_1_1_objects_1_1_point2_d.html#af3ed6bb0be257ace1b515145bfde58bc"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Y"><param name="Local" value="struct_sky_map_1_1_objects_1_1_point2_d.html#ae90cc97396c9cc5353d1c7fc6b9266b0"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Point3D"><param name="Local" value="struct_sky_map_1_1_objects_1_1_point3_d.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Point3D"><param name="Local" value="struct_sky_map_1_1_objects_1_1_point3_d.html#aea4556fa53f63c9aff651e56d69dea46"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Equals"><param name="Local" value="struct_sky_map_1_1_objects_1_1_point3_d.html#a079e8dcdf2625db1b682d293900daed3"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Offset"><param name="Local" value="struct_sky_map_1_1_objects_1_1_point3_d.html#a005ed4dde0d9c6ec9747088004f0b140"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsEmpty"><param name="Local" value="struct_sky_map_1_1_objects_1_1_point3_d.html#a6ce49b48d1a0b31139f51d9e9bca7e22"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="X"><param name="Local" value="struct_sky_map_1_1_objects_1_1_point3_d.html#a5ce4b190e22729c062d715b7f7e46a71"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Y"><param name="Local" value="struct_sky_map_1_1_objects_1_1_point3_d.html#a59a3333c30d6e0dad8f737d0beb204b5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Z"><param name="Local" value="struct_sky_map_1_1_objects_1_1_point3_d.html#ab207b1ed0ab1b215922182dd4afb1360"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PrjCoordSys"><param name="Local" value="class_sky_map_1_1_objects_1_1_prj_coord_sys.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PrjCoordSys"><param name="Local" value="class_sky_map_1_1_objects_1_1_prj_coord_sys.html#a7bdc3d9118b3e130405e335b2afcb852"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GeoCoordSys"><param name="Local" value="class_sky_map_1_1_objects_1_1_prj_coord_sys.html#a4dedeaf1c199bf9b102da3bfc2bd35b6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PrjParams"><param name="Local" value="class_sky_map_1_1_objects_1_1_prj_coord_sys.html#a6304bc8a473835cd487363814e470366"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PROJCS"><param name="Local" value="class_sky_map_1_1_objects_1_1_prj_coord_sys.html#ab5f5e08642f9c42e02eba2d65c31a8a2"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ProjectionType"><param name="Local" value="class_sky_map_1_1_objects_1_1_prj_coord_sys.html#a55c7c4762e1cf20809045c03125a5404"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PrjParams"><param name="Local" value="struct_sky_map_1_1_objects_1_1_prj_params.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Azimuth"><param name="Local" value="struct_sky_map_1_1_objects_1_1_prj_params.html#ab2f7185ca21576514f6bb7fefc452558"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CentralMeridian"><param name="Local" value="struct_sky_map_1_1_objects_1_1_prj_params.html#ad128ecf2d84cc58bc216bcc641487216"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CentralParallel"><param name="Local" value="struct_sky_map_1_1_objects_1_1_prj_params.html#affd7f004d6b743741073cf71c5bdbb76"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FalseEasting"><param name="Local" value="struct_sky_map_1_1_objects_1_1_prj_params.html#a2cb2e7677923d583ba9e59c12e94bcc9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FalseNorthing"><param name="Local" value="struct_sky_map_1_1_objects_1_1_prj_params.html#a662f3aa94fdc1f132b26457db295ce03"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FirstPointLongitude"><param name="Local" value="struct_sky_map_1_1_objects_1_1_prj_params.html#a4ea43f4843174d58407c9155f381f067"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ScaleFactor"><param name="Local" value="struct_sky_map_1_1_objects_1_1_prj_params.html#adaadb05e7dcd2b7d5e99a5aa8b3442c7"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SecondPointLongitude"><param name="Local" value="struct_sky_map_1_1_objects_1_1_prj_params.html#a2508a4049c526b673c0e252bee0a6ecb"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="StandardParallel1"><param name="Local" value="struct_sky_map_1_1_objects_1_1_prj_params.html#a3047c9d9c4b44e7c7e7fe82ea6e5a642"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="StandardParallel2"><param name="Local" value="struct_sky_map_1_1_objects_1_1_prj_params.html#ac407789a5f0e8f6203b30c7b83377126"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Project"><param name="Local" value="class_sky_map_1_1_objects_1_1_project.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Project"><param name="Local" value="class_sky_map_1_1_objects_1_1_project.html#a8ced07194d2b0730bf420593abddbc45"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Close"><param name="Local" value="class_sky_map_1_1_objects_1_1_project.html#adbb43ecf1601799ef6ea83259d5fb034"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Create"><param name="Local" value="class_sky_map_1_1_objects_1_1_project.html#a73d3ff8c7d12fd9b60d0ea43551a66e7"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Open"><param name="Local" value="class_sky_map_1_1_objects_1_1_project.html#a6bfcc80a875189c24167c61706e9be19"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Save"><param name="Local" value="class_sky_map_1_1_objects_1_1_project.html#a9d6a0bdf5dd1fb04948dab6fcc9bcdd6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SaveAs"><param name="Local" value="class_sky_map_1_1_objects_1_1_project.html#a7e4c51b17b9adc78f7b82b17e92eb105"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsOpen"><param name="Local" value="class_sky_map_1_1_objects_1_1_project.html#ac04d2e4baed006f79dc22c9da323f982"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Layout"><param name="Local" value="class_sky_map_1_1_objects_1_1_project.html#adbf3a1eb99f99b4898234b59040d494a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Map"><param name="Local" value="class_sky_map_1_1_objects_1_1_project.html#a60a8490c9689b8d17bf588b9bf39f550"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Path"><param name="Local" value="class_sky_map_1_1_objects_1_1_project.html#afcf5500ac2bc8151fd672f5e565f9977"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Resource"><param name="Local" value="class_sky_map_1_1_objects_1_1_project.html#af453f009ceac55c2b0635b3a848b5132"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="QueryDef"><param name="Local" value="class_sky_map_1_1_objects_1_1_query_def.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="QueryDef"><param name="Local" value="class_sky_map_1_1_objects_1_1_query_def.html#a8641464a65fb4c76d56266f405cd8f2e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetGeometry"><param name="Local" value="class_sky_map_1_1_objects_1_1_query_def.html#aca06b7560ba187c5ebd0cd87e9c60e52"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetGeometry"><param name="Local" value="class_sky_map_1_1_objects_1_1_query_def.html#acf246d7e5c5e5db41c122a0804653405"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Bounds"><param name="Local" value="class_sky_map_1_1_objects_1_1_query_def.html#ae6d7dafc672a10582a0d19805050097b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Distance"><param name="Local" value="class_sky_map_1_1_objects_1_1_query_def.html#a4ef06ec7759a21c00a2f1c9835dde1a6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Filter"><param name="Local" value="class_sky_map_1_1_objects_1_1_query_def.html#af4829f7d678326fd9bc30ad556e05df6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Group"><param name="Local" value="class_sky_map_1_1_objects_1_1_query_def.html#a71e4ded207659292c5312b4d9c427a66"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IDs"><param name="Local" value="class_sky_map_1_1_objects_1_1_query_def.html#a50e1312d0d287279856ee6e83d56e6d6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsAllFields"><param name="Local" value="class_sky_map_1_1_objects_1_1_query_def.html#ad3172b69c067de18a41bce504913c7fb"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsHasGeometry"><param name="Local" value="class_sky_map_1_1_objects_1_1_query_def.html#a0e7955889c063eabfe69b99e4dc9b69a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Sort"><param name="Local" value="class_sky_map_1_1_objects_1_1_query_def.html#ac3aaa599a7e47763640ce9fb67a7a0ef"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Type"><param name="Local" value="class_sky_map_1_1_objects_1_1_query_def.html#abc894f109fca3aa3fe216493cd950a9b"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RasterLayer"><param name="Local" value="class_sky_map_1_1_objects_1_1_raster_layer.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BuildPyramid"><param name="Local" value="class_sky_map_1_1_objects_1_1_raster_layer.html#a20103cd89accd8dc84a94019717f060b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RemovePyramids"><param name="Local" value="class_sky_map_1_1_objects_1_1_raster_layer.html#ad5e26116ec0763541947e274a5062c52"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BlockHeight"><param name="Local" value="class_sky_map_1_1_objects_1_1_raster_layer.html#a33a837d9aa6dbc66c25f3a57a8e13876"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BlockWidth"><param name="Local" value="class_sky_map_1_1_objects_1_1_raster_layer.html#a7d588b976304aac0e6b31bf37a8f5c19"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Height"><param name="Local" value="class_sky_map_1_1_objects_1_1_raster_layer.html#a90306f6ae5048622ce1895c0eafa0727"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsBuildPyramid"><param name="Local" value="class_sky_map_1_1_objects_1_1_raster_layer.html#ad1848164679f379c77d6827d9c601f25"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsScanline"><param name="Local" value="class_sky_map_1_1_objects_1_1_raster_layer.html#acd62b0275249f05543701c388ccad860"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PixelFormat"><param name="Local" value="class_sky_map_1_1_objects_1_1_raster_layer.html#ac7671237c5497294031644dedaa6d6e3"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TierCount"><param name="Local" value="class_sky_map_1_1_objects_1_1_raster_layer.html#ac99baa80aee743aab6fe5acf09dd5616"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Width"><param name="Local" value="class_sky_map_1_1_objects_1_1_raster_layer.html#adbbf515c020c119bdcfe905068971dc9"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Rectangle2D"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Rectangle2D"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#a6be3e07409fbc686d17643cb6a9f80b6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Rectangle2D"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#aacc58a9013d946a0916af056b22515fa"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Rectangle2D"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#ad38c182b6dcaefb1a2dfb5b99e7e1c62"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Contains"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#a657b4bc75e313611034abfd0d8dfe611"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Contains"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#ab045d4957db9f3105af01548974b6e42"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Equals"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#ab747db724a01415728eee8c9de0a50d5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Inflate"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#a10e3cc45a665fd7fe4322a609585365a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Intersect"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#aa6ae5aaa8fd36807afd9466bea38cb67"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Offset"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#a08c427d399e7f3c7e284caee5d33d484"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Union"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#a24a2beedd24645c3dc397ebccff5d34d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Bottom"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#a7176c0220dcd27b1b580b1cbc34cf5ed"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Center"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#a0aea63fdac554e3e77581a9b8584babf"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Height"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#aa694987f76d970aa22cd4fd60c5b19f8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsEmpty"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#aba25659c667ddaa0bd3a088baa504f38"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Left"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#a8753c8ec672b62f8730d713a456eaed6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Right"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#a59e478b36425130e356e5706e634aa5d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Top"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#a6c16cd74964cc858d3b14efe88f73879"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Width"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html#ad7de0449f2133a1ee25e3de0212cccfd"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RectifyError"><param name="Local" value="class_sky_map_1_1_objects_1_1_rectify_error.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dOffsetX"><param name="Local" value="class_sky_map_1_1_objects_1_1_rectify_error.html#a7eda4b2adc52fe1fdddc2e9d6f25bb0c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dOffsetY"><param name="Local" value="class_sky_map_1_1_objects_1_1_rectify_error.html#a08f57f3363f3dee4de31bfd9d74c842f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dResidualX"><param name="Local" value="class_sky_map_1_1_objects_1_1_rectify_error.html#ab52e58cbded8b94d2d7db9ed2a72a810"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dResidualY"><param name="Local" value="class_sky_map_1_1_objects_1_1_rectify_error.html#a71db44b78eadeab4afcf4d85e7d290d9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dRMS"><param name="Local" value="class_sky_map_1_1_objects_1_1_rectify_error.html#a1e9a3d8b3bccb1592626398d934980ca"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Rectify"><param name="Local" value="class_sky_map_1_1_objects_1_1_rectify.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Rectify"><param name="Local" value="class_sky_map_1_1_objects_1_1_rectify.html#ab4f57b2d045206041ffb643b6e7f331a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetErrors"><param name="Local" value="class_sky_map_1_1_objects_1_1_rectify.html#a8e64e98f560256a203a62e2f8dbe947f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RectifyRaster"><param name="Local" value="class_sky_map_1_1_objects_1_1_rectify.html#aa3bb435eef147b15476a567f42e80478"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RectifyRaster"><param name="Local" value="class_sky_map_1_1_objects_1_1_rectify.html#a43dbe42184665d8298a95ec9d6b56ab8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RectifyVector"><param name="Local" value="class_sky_map_1_1_objects_1_1_rectify.html#a01e3742b471c9b03e22bf73e7a13d8d0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetContrlPoints"><param name="Local" value="class_sky_map_1_1_objects_1_1_rectify.html#abb02a2ca151adb718e09473462c57980"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Resource"><param name="Local" value="class_sky_map_1_1_objects_1_1_resource.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Close"><param name="Local" value="class_sky_map_1_1_objects_1_1_resource.html#a782fc249d6acbea2650f5a0f82169bc6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Open"><param name="Local" value="class_sky_map_1_1_objects_1_1_resource.html#a46b9fb3362d4792ce660618d38a9b3c4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Save"><param name="Local" value="class_sky_map_1_1_objects_1_1_resource.html#a14e5539bf3c7380f654c128a47bd7393"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SaveAs"><param name="Local" value="class_sky_map_1_1_objects_1_1_resource.html#a79e8b6a6ae5522f98aa843d23f9be893"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsOpen"><param name="Local" value="class_sky_map_1_1_objects_1_1_resource.html#add6e69a5eae407e18b134a65970a51b7"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LineSymbolLib"><param name="Local" value="class_sky_map_1_1_objects_1_1_resource.html#a6c73ddbaa98d922d844341f9018d6a1c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MarkerSymbolLib"><param name="Local" value="class_sky_map_1_1_objects_1_1_resource.html#a7400b8027cd674281fd732b36da9a22b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Path"><param name="Local" value="class_sky_map_1_1_objects_1_1_resource.html#a5750f57f9a0539482bd56c046d9c3b00"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Selection"><param name="Local" value="class_sky_map_1_1_objects_1_1_selection.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Add"><param name="Local" value="class_sky_map_1_1_objects_1_1_selection.html#ad9dd81fbd4da462173b892395426af13"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FromCursor"><param name="Local" value="class_sky_map_1_1_objects_1_1_selection.html#a6c347c8318a73ac50794c7c2c9bf7ebe"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetIndexByID"><param name="Local" value="class_sky_map_1_1_objects_1_1_selection.html#a2e54eb1e249169ecf2fb5982ae9ae3f1"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveAll"><param name="Local" value="class_sky_map_1_1_objects_1_1_selection.html#a67543a55f75c6f212fe936c3d72a2604"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_selection.html#aaef55b0f59481892dbcafe754942a91d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ToCursor"><param name="Local" value="class_sky_map_1_1_objects_1_1_selection.html#a20c46c623cce805d7271cd0c34c3edec"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Count"><param name="Local" value="class_sky_map_1_1_objects_1_1_selection.html#a9efb98d05a24807a6c6f2477426c15af"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsEmpty"><param name="Local" value="class_sky_map_1_1_objects_1_1_selection.html#aa4320a184dbe83db05c6faaa1c6c4f59"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Layer"><param name="Local" value="class_sky_map_1_1_objects_1_1_selection.html#a34ad82ada9d3b24e2b7897003e3bffde"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Style"><param name="Local" value="class_sky_map_1_1_objects_1_1_selection.html#a1b423f7c235133c1b2ef791a7b1a98d5"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Size2D"><param name="Local" value="struct_sky_map_1_1_objects_1_1_size2_d.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Size2D"><param name="Local" value="struct_sky_map_1_1_objects_1_1_size2_d.html#ad7ba0a7349cfde8a85c5e6146bfe3734"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Height"><param name="Local" value="struct_sky_map_1_1_objects_1_1_size2_d.html#a89b428f2ae436888c598a8bbee31f549"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsEmpty"><param name="Local" value="struct_sky_map_1_1_objects_1_1_size2_d.html#a817498fdb5944d1e84e087da69ecc06d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Width"><param name="Local" value="struct_sky_map_1_1_objects_1_1_size2_d.html#ab282a9a393a0ddebab230912a4b5a522"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Style"><param name="Local" value="class_sky_map_1_1_objects_1_1_style.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="clrFillBack"><param name="Local" value="class_sky_map_1_1_objects_1_1_style.html#a86d556a38d5c4ec0b7a5cb9e9a0440b3"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="clrFillFore"><param name="Local" value="class_sky_map_1_1_objects_1_1_style.html#a25bbff7c3e5e0bd6d88786d58ecf9ad5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="clrLine"><param name="Local" value="class_sky_map_1_1_objects_1_1_style.html#af0ee9330dcd82f298bc3de2a66507d4c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dMarkerAngle"><param name="Local" value="class_sky_map_1_1_objects_1_1_style.html#ac4f9a6f6aade240d773e91bd129703f4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="nFillStyle"><param name="Local" value="class_sky_map_1_1_objects_1_1_style.html#a5079ac6f921d9089e6cf67a4bd69a0b6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="nLineStyle"><param name="Local" value="class_sky_map_1_1_objects_1_1_style.html#aacef4933877d52cdb0ba8304af5cb072"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="nLineWidth"><param name="Local" value="class_sky_map_1_1_objects_1_1_style.html#a6e6c15b173e38d6f4ff3f0f911be757b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="nMarkerSize"><param name="Local" value="class_sky_map_1_1_objects_1_1_style.html#a5f3856a8477b5fdb40a99ed2b1643319"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="nMarkerStyle"><param name="Local" value="class_sky_map_1_1_objects_1_1_style.html#a33b9b8d549196a7a3110509a7b25d61a"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Symbol"><param name="Local" value="class_sky_map_1_1_objects_1_1_symbol.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetBitmap"><param name="Local" value="class_sky_map_1_1_objects_1_1_symbol.html#a1b249b091f607b373e0d981e6a234329"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ID"><param name="Local" value="class_sky_map_1_1_objects_1_1_symbol.html#abf80d3c02e455263af5bf123fd8c6f3f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Name"><param name="Local" value="class_sky_map_1_1_objects_1_1_symbol.html#a43881c291f7f7768a81a0158cf56467f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SymbolType"><param name="Local" value="class_sky_map_1_1_objects_1_1_symbol.html#a4b5fc45d0024bfb473dedb4bb3ebebd5"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SymbolLib"><param name="Local" value="class_sky_map_1_1_objects_1_1_symbol_lib.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FindID"><param name="Local" value="class_sky_map_1_1_objects_1_1_symbol_lib.html#a8768c48deb7ac8854bf643fb1c8ba8f8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FindName"><param name="Local" value="class_sky_map_1_1_objects_1_1_symbol_lib.html#a7f983424e8cd04e1cf3d262ff7614ba7"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetIDAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_symbol_lib.html#a88dee483f42315668d5ca575d5c36fee"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetNameAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_symbol_lib.html#a8ec5e41ffc43c9c5edb22f0bef0e620b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetSymbolAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_symbol_lib.html#afe13f6b9207c861dec61a8172d18695b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetSymbolByID"><param name="Local" value="class_sky_map_1_1_objects_1_1_symbol_lib.html#a1570548076871d45330202906fb89a1d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsIDExisted"><param name="Local" value="class_sky_map_1_1_objects_1_1_symbol_lib.html#a4008ad0b5bd9f2280e6d9d9420b8cd41"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SymbolCount"><param name="Local" value="class_sky_map_1_1_objects_1_1_symbol_lib.html#a038d79642c5b4ccf88b68832f46152ce"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Type"><param name="Local" value="class_sky_map_1_1_objects_1_1_symbol_lib.html#adc810536ff80ef94f073103ac82da526"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TextStyle"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="bBackOpaque"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html#aae9078f20c6d2dd3d8d823b2ed2ba259"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="bBold"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html#a65155814f6abb9b2000f0c9a7bab545f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="bHalo"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html#adbacb55f3c07884fb29fa1fdfe4ea34c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="bItalic"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html#a070067cf5fc01bd57f3b3ffea3583c68"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="bShadow"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html#ad3fa1f8cdae8c521cbe4af86730f7dba"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="bStrikeOut"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html#ad584b3b5575ecca54d16e1bf74efa9ed"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="bUnderline"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html#abef8c0ac312a4f31ff10ae72d6b26fb2"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="clrBack"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html#a75d99de92295608e362d5e1f4dfe824c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="clrFore"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html#a70145c7b2923515b2c0d3d9560129c37"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dAngle"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html#a814d46ccfb64c758cb738b7297cf47af"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dHeight"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html#aa3ea0d2f960eba43d57e01ff4ef38847"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dItalicAngle"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html#a1311b89cc431321b573c268211648343"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="dWidth"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html#a72db4af0a638e5415a662da64c54230d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="nAlign"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html#a84926b2c8f767ac228af8619fd1360fc"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="nStyle"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html#a50979c6fcf0f67087a01df79cb25a727"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="nWeight"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html#a379296839c69921d89179042bdbc3a44"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="strFaceName"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html#a980d4a0ac0c34a6ff8628397e6ada2fe"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Theme"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsValid"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme.html#ae701e2b61ffe43e49db60df495c5540e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Layer"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme.html#ad7d87e0bca3d971492689aa4f1135c09"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Type"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme.html#abacf8c893c63c98fa798b16b334ef65d"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ThemeLabel"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_label.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ThemeLabel"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_label.html#ac88016a4b45e0eb976376aeb715c7fb6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FieldName"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_label.html#ad219dbaf9470e035954f29029b4139be"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsFlowLabel"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_label.html#a9f903821b0da1e0c595acfb0076bb2ce"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Style"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_label.html#a1d478f54a182a8ce2124b0c5b0bc4c85"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ThemeRange"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_range.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ThemeRange"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_range.html#aae00e7b1fc5b9d4fc856f536230855c1"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetStyle"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_range.html#ab2252b255a4434ecf426d588e4a360b0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetValue"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_range.html#a5d9473db0ec30926192a2c4285d69a2b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetStyle"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_range.html#a106b212c194c8c76573f73ad7aa192c9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetValue"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_range.html#a2e217e57c2c07dbef7249b407c28db46"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FieldName"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_range.html#affd8c84d6ca3511b48bbecafd2b54128"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ThemeUnique"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_unique.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ThemeUnique"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_unique.html#a68bf3893bbbc5168071349148ba293f0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetStyle"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_unique.html#a41040c696a3ec513eccc8e9ccfb927c5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetStyle"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_unique.html#a14e9e0312699704a0f75f4dbb51ca320"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FieldName"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_unique.html#a6969a2f6e318ffffe6fca36857581e1f"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TrackingLayer"><param name="Local" value="class_sky_map_1_1_objects_1_1_tracking_layer.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AddEvent"><param name="Local" value="class_sky_map_1_1_objects_1_1_tracking_layer.html#a433cac56bfdd9cc55392a64d0601325d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetEvent"><param name="Local" value="class_sky_map_1_1_objects_1_1_tracking_layer.html#a2a091fd94ecc40c312d55d2127671c77"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ReleaseAll"><param name="Local" value="class_sky_map_1_1_objects_1_1_tracking_layer.html#a622d499b412cdc4e89ba97b8429136f3"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveElment"><param name="Local" value="class_sky_map_1_1_objects_1_1_tracking_layer.html#a948b08cf5bccd74a1349acdc1c7f8882"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsEmpty"><param name="Local" value="class_sky_map_1_1_objects_1_1_tracking_layer.html#a48403a7d1b5ee741f7de05b8c5cf8dea"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IsFixedStyle"><param name="Local" value="class_sky_map_1_1_objects_1_1_tracking_layer.html#a800686bcdd943045d9d5e73889703086"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Style"><param name="Local" value="class_sky_map_1_1_objects_1_1_tracking_layer.html#a50a5d3ef236039e2c46fb360fff0e25c"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="VectorLayer"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AddField"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#a64d1e4337686e7a2ee3d2b19be426d08"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AddTheme"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#ab2f827568388937f61e46a3047c6c754"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BeginTrans"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#a428a95aa644591ac2328f66eae52800a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CalculateExtremum"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#a9fba80253e6d0e7fc7ced289584e4ade"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CalculateUniqueValues"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#a5332d6d0de2aac09809491ee32aab038"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Commit"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#a60243dd10f46f5f53b2e15cc62b03661"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Create"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#a8634e61535da4b1baf7dbb622a52f807"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFieldIndexbyName"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#a74babab2263732af25ad5f390d5d1611"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetFieldInfoAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#ad01dce4d453c31822ea5dfa6716eec0a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GetThemeAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#a671c8b9a45b8d67fce8d5943ff4b72de"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Query"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#a930ec279c1fd82009f23f424806caf65"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RebuildIndex"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#a6e45ece40b3e9a2390493ae9dbc812e0"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveAllTheme"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#a693aefda2c5b85aa4decf6ee7a257f6b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveField"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#ad5d1965e37b43ed5ddf26cc949cc1ade"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveFieldAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#ae2e898233c4ff6204ebd90884dbcaae4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveThemeAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#aeef5b180737fcb34ff0324297ba05978"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetThemeAt"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#ae3a4949d1dc82812ac815df65b15aea6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FeatureCount"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#a7fc0a3ecb628cc1188a6c6af948fe292"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FieldCount"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#a70660b05d3cf4f1757a872a04ba675c8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FieldNames"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#ac42b4b2656600067b0f9f64b36b95669"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GeometryType"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#ad77ef4f0c0bd9102a7f0c9abe2c5951d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Style"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#a97b2e74d37ef976b6db938fd0d3b6151"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ThemeCount"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html#a49e3e135d24da0ec687dba430d1c93c5"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="类索引"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="类继承关系"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.API"><param name="Local" value="class_sky_map_1_1_objects_1_1_a_p_i.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Component"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Project"><param name="Local" value="class_sky_map_1_1_objects_1_1_project.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.CoordConverter"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_converter.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.CoordSys"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_sys.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.GeoCoordSys"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_coord_sys.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.PrjCoordSys"><param name="Local" value="class_sky_map_1_1_objects_1_1_prj_coord_sys.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.CoordSysFactory"><param name="Local" value="class_sky_map_1_1_objects_1_1_coord_sys_factory.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Feature"><param name="Local" value="class_sky_map_1_1_objects_1_1_feature.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.FieldInfo"><param name="Local" value="class_sky_map_1_1_objects_1_1_field_info.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Geometry"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.GeoLine"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_line.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Geometry3D"><param name="Local" value="class_sky_map_1_1_objects_1_1_geometry3_d.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.GeoLine3D"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_line3_d.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.GeoPoint3D"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_point3_d.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.GeoRegion3D"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_region3_d.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.GeoPoint"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_point.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.GeoRegion"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_region.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.GeoOperator"><param name="Local" value="class_sky_map_1_1_objects_1_1_geo_operator.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.GeoTransParams"><param name="Local" value="struct_sky_map_1_1_objects_1_1_geo_trans_params.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IDisposable"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.DataCursor"><param name="Local" value="class_sky_map_1_1_objects_1_1_data_cursor.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Layer"><param name="Local" value="class_sky_map_1_1_objects_1_1_layer.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.RasterLayer"><param name="Local" value="class_sky_map_1_1_objects_1_1_raster_layer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.VectorLayer"><param name="Local" value="class_sky_map_1_1_objects_1_1_vector_layer.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Layout"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.LayoutElement"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_element.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.LayoutArtText"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_art_text.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.LayoutDirection"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_direction.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.LayoutLegend"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_legend.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.LayoutMap"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_map.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.LayoutPaper"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_paper.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.LayoutScale"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_scale.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Map"><param name="Local" value="class_sky_map_1_1_objects_1_1_map.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Overlap"><param name="Local" value="class_sky_map_1_1_objects_1_1_overlap.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Point2D"><param name="Local" value="struct_sky_map_1_1_objects_1_1_point2_d.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Point3D"><param name="Local" value="struct_sky_map_1_1_objects_1_1_point3_d.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="PrintDocument"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.LayoutPrintDocument"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_print_document.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.PrjParams"><param name="Local" value="struct_sky_map_1_1_objects_1_1_prj_params.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.QueryDef"><param name="Local" value="class_sky_map_1_1_objects_1_1_query_def.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Rectangle2D"><param name="Local" value="struct_sky_map_1_1_objects_1_1_rectangle2_d.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Rectify"><param name="Local" value="class_sky_map_1_1_objects_1_1_rectify.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.RectifyError"><param name="Local" value="class_sky_map_1_1_objects_1_1_rectify_error.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Resource"><param name="Local" value="class_sky_map_1_1_objects_1_1_resource.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Selection"><param name="Local" value="class_sky_map_1_1_objects_1_1_selection.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Size2D"><param name="Local" value="struct_sky_map_1_1_objects_1_1_size2_d.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Style"><param name="Local" value="class_sky_map_1_1_objects_1_1_style.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Symbol"><param name="Local" value="class_sky_map_1_1_objects_1_1_symbol.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.SymbolLib"><param name="Local" value="class_sky_map_1_1_objects_1_1_symbol_lib.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.LineSymbolLib"><param name="Local" value="class_sky_map_1_1_objects_1_1_line_symbol_lib.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.MarkerSymbolLib"><param name="Local" value="class_sky_map_1_1_objects_1_1_marker_symbol_lib.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.TextStyle"><param name="Local" value="class_sky_map_1_1_objects_1_1_text_style.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.Theme"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.ThemeLabel"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_label.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.ThemeRange"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_range.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.ThemeUnique"><param name="Local" value="class_sky_map_1_1_objects_1_1_theme_unique.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.TrackingLayer"><param name="Local" value="class_sky_map_1_1_objects_1_1_tracking_layer.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="UserControl"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.LayoutView"><param name="Local" value="class_sky_map_1_1_objects_1_1_layout_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SkyMap.Objects.MapView"><param name="Local" value="class_sky_map_1_1_objects_1_1_map_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="类成员"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="全部"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="a"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="functions_0x62.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c"><param name="Local" value="functions_0x63.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="d"><param name="Local" value="functions_0x64.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="e"><param name="Local" value="functions_0x65.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="f"><param name="Local" value="functions_0x66.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="functions_0x67.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="h"><param name="Local" value="functions_0x68.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="i"><param name="Local" value="functions_0x69.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="l"><param name="Local" value="functions_0x6c.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m"><param name="Local" value="functions_0x6d.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="n"><param name="Local" value="functions_0x6e.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="o"><param name="Local" value="functions_0x6f.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="p"><param name="Local" value="functions_0x70.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="q"><param name="Local" value="functions_0x71.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="functions_0x72.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="s"><param name="Local" value="functions_0x73.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="t"><param name="Local" value="functions_0x74.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="u"><param name="Local" value="functions_0x75.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="v"><param name="Local" value="functions_0x76.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="w"><param name="Local" value="functions_0x77.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="x"><param name="Local" value="functions_0x78.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="y"><param name="Local" value="functions_0x79.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="z"><param name="Local" value="functions_0x7a.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="函数"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="a"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="b"><param name="Local" value="functions_func_0x62.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="c"><param name="Local" value="functions_func_0x63.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="d"><param name="Local" value="functions_func_0x64.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="e"><param name="Local" value="functions_func_0x65.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="f"><param name="Local" value="functions_func_0x66.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="g"><param name="Local" value="functions_func_0x67.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="i"><param name="Local" value="functions_func_0x69.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="l"><param name="Local" value="functions_func_0x6c.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m"><param name="Local" value="functions_func_0x6d.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="o"><param name="Local" value="functions_func_0x6f.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="p"><param name="Local" value="functions_func_0x70.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="q"><param name="Local" value="functions_func_0x71.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="r"><param name="Local" value="functions_func_0x72.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="s"><param name="Local" value="functions_func_0x73.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="t"><param name="Local" value="functions_func_0x74.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="u"><param name="Local" value="functions_func_0x75.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="v"><param name="Local" value="functions_func_0x76.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="x"><param name="Local" value="functions_func_0x78.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="变量"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="属性"><param name="Local" value="functions_prop.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
