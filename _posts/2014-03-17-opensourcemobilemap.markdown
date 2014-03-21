@@ -2,7 +2,7 @@
 layout: post
 title:  "值得收藏的开源移动地图平台"
 date:   2014-03-17 23:28:42
-categories: jekyll update
+categories: OpenStreetMap
 ---
 
 #### 切片地图
