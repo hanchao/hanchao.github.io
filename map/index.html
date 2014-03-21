@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Hello World!</title>
+  <title>µØÇò</title>
   <script src="Cesium/Cesium.js"></script>
   <style>
       @import url(Cesium/Widgets/widgets.css);
@@ -28,7 +28,15 @@
 <body>
   <div id="cesiumContainer"></div>
   <script>
-    var cesiumWidget = new Cesium.CesiumWidget('cesiumContainer');
+  
+  var osm = new Cesium.OpenStreetMapImageryProvider({
+      url : 'https://a.tiles.mapbox.com/v3/examples.map-qfyrx5r8/',
+	  credit : 'MapBox, OpenStreetMap and contributors, CC-BY-SA'
+  });
+  
+  var cesiumWidget = new Cesium.CesiumWidget('cesiumContainer', {
+      imageryProvider : osm});
+  
   </script>
 </body>
 </html>
