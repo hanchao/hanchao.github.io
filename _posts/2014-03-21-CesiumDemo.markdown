@@ -34,14 +34,16 @@ Cesium的API简洁、文档比较丰富，根据 Getting Started 即可快速实
 
 	看看HelloWorld.html里面都写了什么，很简单就这么一句代码。
 	
-	```var cesiumWidget = new Cesium.CesiumWidget('cesiumContainer');```
+	```javascript
+	var cesiumWidget = new Cesium.CesiumWidget('cesiumContainer');
+	```
 	
 	
 	如果显示自定义图层呢，只需要几行代码而已。通过查看文档，可以看到CesiumWidget有个imageryProvider参数，默认使用bing的数据。
 	
 	换个mapbox的数据，就这么几行
 	
-	```
+	```javascript
     var osm = new Cesium.OpenStreetMapImageryProvider({
         url : 'https://a.tiles.mapbox.com/v3/examples.map-qfyrx5r8/',
   	  credit : 'MapBox, OpenStreetMap and contributors, CC-BY-SA'
