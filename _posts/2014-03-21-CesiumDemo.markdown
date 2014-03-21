@@ -22,7 +22,7 @@ Cesium的API简洁、文档比较丰富，根据 Getting Started 即可快速实
 	
 2. 部署
 
-    将下载的压缩包解压，里面有个HelloWorld.html，直接用浏览器开发是无法使用的。
+    将下载的压缩包解压，里面有个HelloWorld.html，直接用浏览器打开是无法使用的。
 	这里需要把整个目录拷贝到你web服务器(IIS、Apache等)中。
 	如果你安装了python，你可以```cd```到Cesium目录下，```python -m SimpleHTTPServer```运行简易的web服务器。
 	
