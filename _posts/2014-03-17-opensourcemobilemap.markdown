@@ -46,3 +46,11 @@ glob3mobile
 WhirlyGlobe-Maply
 
 <https://github.com/mousebird/WhirlyGlobe>
+
+#### 全景图
+
+PanoramaGL
+
+<https://code.google.com/p/panoramagl>
+
+<https://code.google.com/p/panoramagl-android/>
