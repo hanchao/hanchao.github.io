@@ -111,6 +111,6 @@ PS:实际上在线每个端点处画一个园，即可到不错的效果。分�
 
 ## Mapbox GL
 
-访问[Mapbox GL](http://mapbox.com/blog/mapbox-gl)博客查看和谈论更多的设计和开发工作。画线只是设备上实时高品质的地图的大局观一个小而必要的部分。
+访问[Mapbox GL](http://mapbox.com/blog/mapbox-gl)博客查看和谈论更多的设计和开发工作。画线只是设备上实时高品质的地图中的一个小而必要的部分。
 
 原文：<https://www.mapbox.com/blog/drawing-antialiased-lines/>
