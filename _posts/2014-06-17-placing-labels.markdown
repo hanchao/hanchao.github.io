@@ -5,13 +5,13 @@ date:   2014-06-17 10:57:30
 categories: Mapbox GL
 ---
 
-好的地图标签是在一个邋遢的地图和一个美丽的地图之间的。标签必须清楚地识别功能，同时不遮挡图。
+好的地图标签应该是在一个邋遢的地图和一个美丽的地图之间的。标签必须清楚地识别功能，同时不遮挡图。
 
 <iframe src="https://player.vimeo.com/video/97978134?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=1&amp;loop=1" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="padding:0;border:0;"></iframe>
 
 The normal requirements for map labelling are to place labels as clearly as possible without any overlap. Regular maps just need to avoid label overlap for a single, fixed zoom level and rotation.
 
-Good label placement is a hard problem that we solve for Mapbox GL. We need our label placements to work at any zoom and any rotation. We need labels placements to be continuous, so that labels don’t jump around when zooming or rotating. We need labels to be seamless across tiles. We need to support changing font sizes as you zoom. And it all needs to be fast.
+在Mapbox GL中好的标签位置是一个需要解决的困难问题。我们标签需要在任何缩放和旋转时工作。我们需要标签位置是连续的,缩放或旋转时标签不要跳来跳去。我们标签需要能无缝的跨越瓦片。我们需要支持在缩放时改变字体大小。并且一切都要快速。
 
 Placement needs to support both horizontal labels, as well as curved labels which follow a line. Both types of labels need to behave smoothly when zooming and rotating. Labels can never overlap, even when rotating. Horizontal labels stay horizontal and curved labels rotate with the map. Labels are flipped to avoid being drawn upside down and curved labels smoothly slide along roads.
 
@@ -88,4 +88,4 @@ Mapbox GL downloads vector tiles with data for the area and zoom level it is cur
 
 访问[Mapbox GL](http://mapbox.com/blog/mapbox-gl)博客查看和谈论更多的设计和开发工作。地图文本标注只是设备上实时高品质的地图中的一个小而必要的部分。
 
-原文：<https://www.mapbox.com/blog/drawing-antialiased-lines/>
+原文：<https://www.mapbox.com/blog/placing-labels/>
