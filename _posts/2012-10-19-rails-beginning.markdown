@@ -22,9 +22,11 @@ categories: rails
 `sudo apt-get install sqlite3 libsqlite3-dev nodejs`
 
 安装`rails`
+
 `sudo gem install rails`
 
 测试`rails`
+
 `rails -v`
 
 

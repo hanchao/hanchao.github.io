@@ -17,49 +17,43 @@ Cesium，一个基于WebGL的 JavaScript 绘图库， 通过其内部机制提�
 Cesium的API简洁、文档比较丰富，根据 Getting Started 即可快速实现三维地球。
 
 1. 下载
-	
+
 	下载地址：<https://github.com/AnalyticalGraphicsInc/cesium/releases>，当前最新版本为b26。
-	
+
 2. 部署
 
     将下载的压缩包解压，里面有个HelloWorld.html，直接用浏览器打开是无法使用的。
 	这里需要把整个目录拷贝到你web服务器(IIS、Apache等)中。
 	如果你安装了python，你可以```cd```到Cesium目录下，```python -m SimpleHTTPServer```运行简易的web服务器。
-	
+
 3. 运行
 
 	打开支持WebGL的浏览器(Chrome)，进入http://localhost:8000/HelloWorld.html，即可看到有包含bing影像数据的地球。
-	
+
 4. 自定义图层
 
 	看看HelloWorld.html里面都写了什么，很简单就这么一句代码。
-	
+
 	```javascript
 	var cesiumWidget = new Cesium.CesiumWidget('cesiumContainer');
 	```
-	
-	
+
+
 	如果显示自定义图层呢，只需要几行代码而已。通过查看文档，可以看到CesiumWidget有个imageryProvider参数，默认使用bing的数据。
-	
+
 	换个mapbox的数据，就这么几行
-	
+
 	```javascript
     var osm = new Cesium.OpenStreetMapImageryProvider({
         url : 'https://a.tiles.mapbox.com/v3/examples.map-qfyrx5r8/',
   	  credit : 'MapBox, OpenStreetMap and contributors, CC-BY-SA'
     });
-  
+
     var cesiumWidget = new Cesium.CesiumWidget('cesiumContainer', {
         imageryProvider : osm});
 	```
-	
+
 	可参见 [我的demo](../../../../earth/index.html)
-	
-	
+
+
 	![demo](../../../../pic/CesiumDemo.png)
-    
-
-	  
-	  
-
-

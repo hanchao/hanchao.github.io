@@ -5,7 +5,9 @@ date:   2009-06-24 10:57:30
 categories: esupermap
 ---
 
-经过近半年的时间研发，eSuperMap 6终于诞生了。eSuperMap 6在C++类库的基础上封装.NET组件，便于用户使用C#、VB.NET等语言进行嵌入式开发。关于详细eSuperMap 6的发布信息参考《 超图软件发布高效嵌入式GIS开发平台eSuperMap6》，下载地址： <http://www.supermap.com.cn/downloadcenter/download_file.asp?file_id=315>。
+经过近半年的时间研发，eSuperMap 6终于诞生了。eSuperMap 6在C++类库的基础上封装.NET组件，便于用户使用C#、VB.NET等语言进行嵌入式开发。关于详细eSuperMap 6的发布信息参考《 超图软件发布高效嵌入式GIS开发平台eSuperMap6》
+
+下载地址： <http://www.supermap.com.cn/downloadcenter/download_file.asp?file_id=315>。
 
 ![esupermap](../../../../pic/esupermap1.jpeg)
 
