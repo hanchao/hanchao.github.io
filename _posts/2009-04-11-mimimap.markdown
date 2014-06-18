@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "迷你地图"
-date:   2012-10-18 10:57:30
-categories: nginx
+date:   2009-04-11 10:57:30
+categories: minimap
 ---
 
 用了一阵子古董级别的NOKIA手机后，终于我还是受不买新的手机了。NOKIA的5320XM，S60的系统、音质都很好很强大，只是键盘的手感一般的很，电池也不经用（可能是我用太快了）。既然是S60的系统不利用还好就浪费了，于是乎就去网上找常用的软件装上。什么QQ、飞信、UCWEB等等统统装上，其中我还淘到一个很牛的地图软件——迷你地图（ http://mobile.mapabc.com/index.html）。它是高德软件的手机地图软件，他们自己做数据还做软件，数据还能离线下载（Google Map就不行了，浏览个地图时，那GPRS流量彪的），然后还免费。有智能手机的、有GPRS套餐的、有兴趣的可以装上试试。
@@ -32,6 +32,7 @@ categories: nginx
 ![minimap](../../../../pic/minimap4.png)
 
 支持搜索地图上任意位置的周边生活设施，如餐饮、商场、网吧、旅店等等。
+
 GPS
 
 ![minimap](../../../../pic/minimap5.jpeg)
