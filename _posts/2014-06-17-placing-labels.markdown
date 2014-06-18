@@ -5,7 +5,7 @@ date:   2014-06-17 10:57:30
 categories: Mapbox GL
 ---
 
-好的地图标签应该是在一个邋遢的地图和一个美丽的地图之间的。标签必须清楚地识别功能，同时不遮挡图。
+好的地图标签应该是在介于一个邋遢的地图和一个美观的地图之间的。标签必须清楚地识别功能，同时不遮挡图。
 
 <iframe src="https://player.vimeo.com/video/97978134?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=1&amp;loop=1" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="padding:0;border:0;"></iframe>
 
