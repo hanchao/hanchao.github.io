@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "有人说“家的印象只有冬”"
+date:   2014-02-12 10:57:30
+categories: mapper
+---
+
+过年回家拿着手机，采了些轨迹。再加上天地图的影像，在openstreetmap把家的画了出来。
+
+mapbox上的效果还是很不错的。
+
+![map](../../../../pic/MapHome.png)
+
+添加自定义图层
+
+url
+
+`http://t5.tianditu.cn/img_w/wmts?service=wmts&request=GetTile&version=1.0.0&LAYER=img&tileMatrixSet=w&TileMatrix={z}&TileRow={y}&TileCol={x}&style=default&format=tiles`
+
+一些弯路
+
+有人问我这样是否有法律问题，我只能说'不清楚，呵呵'。半个过去后，有人通知我之前用Google Map做地图的数据需要被移除。
+
+OpenStreetMap的人对版权比较重视，用天地图还是有风险。
