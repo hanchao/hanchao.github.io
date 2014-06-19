@@ -3,28 +3,16 @@ layout: page
 title: 关于
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+一个地图开发者、OpenStreetMap地图贡献者，热爱开源。关注移动平台的地图渲染、空间数据索引、数据挖掘和并行计算。
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## 联系
 
-There are currently two themes built on Poole:
+LinkedIn: <https://www.linkedin.com/in/hanchao0123>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Github:          <https://github.com/hanchao>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+微博:           <http://weibo.com/u/1076929083>
 
-## Setup
+OpenStreetMap:   <http://www.openstreetmap.org/user/hanchao>
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+邮件:            <hanchao0123@hotmail.com>
