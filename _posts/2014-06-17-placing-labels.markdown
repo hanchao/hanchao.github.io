@@ -82,7 +82,7 @@ A curved-horizontal collision occurs when a corner of one label’s bounding box
 
 ## 无缝性
 
-Mapbox GL downloads vector tiles with data for the area and zoom level it is currently displaying. When new tiles are downloaded and their labels have been placed, an old tile’s label may need to be hidden to make way for a more important label. This will be handled in a resolution step that has not yet been implemented.
+Mapbox GL下载当前显示范围和缩放级别的矢量瓦片。当新的瓦片下载完成，它们的标签位置已经被旧瓦片的标签占据，可能需要隐藏让位给一个更重要的标签。这将在尚未实现的步骤由解析处理。
 
 ## Mapbox GL
 

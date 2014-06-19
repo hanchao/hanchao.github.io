@@ -7,7 +7,7 @@ categories: Mapbox GL
 
 上周，Ansis解释了在[Mapbox GL](http://github.com/mapbox/mapbox-gl-native)标签被[放置的方法](https://www.mapbox.com/blog/placing-labels/)，但一旦我们知道在何处放置标签，我们还是要弄清楚如何绘制他们。
 
-甚至在2014年，OpenGL诞生后超过二十年，渲染文本是不容易的，因为OpenGL的只能画出三角形和线条。地图渲染文本是更加困难的,因为我们需要在许多不同大小的字符,当用户旋转地图时文本位置的每帧都会变化。此外，我们需要画文本光晕已得到更好的对比度。
+甚至在2014年，OpenGL诞生后超过二十年，渲染文本也是不容易的，因为OpenGL的只能画出三角形和线条。地图渲染文本是更加困难的,因为我们需要在许多不同大小的字符,当用户旋转地图时文本位置的每帧都会变化。此外，我们需要画文本光晕已得到更好的对比度。
 
 ![properties](https://farm6.staticflickr.com/5535/14436445982_8d28ec8401_b.jpg)
 

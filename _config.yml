@@ -1,3 +1,26 @@
-name: 韩超
-markdown: redcarpet
-pygments: true
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            韩超
+tagline:          'A Jekyll theme'
+description:      '一个制图者'
+url:              http://hyde.getpoole.com
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:           https://github.com/hanchao
+weibo:            http://weibo.com/u/1076929083
+openstreetmap:    http://www.openstreetmap.org/user/hanchao
+mail:           hanchao0123@hotmail.com
