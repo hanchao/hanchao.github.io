@@ -33,7 +33,7 @@ Like in the previous technique, we create two triangles to form a quad and assig
 
 We enable OpenGL’s linear interpolation so that we get a smoothly scaled image. Then, the important part is the alpha test. Depending on how far we want to buffer the glyph, we choose a cutoff value and assign 1 as the alpha value to all pixels that are within the glyph outline and 0 to the ones outside. To get an antialiased look, we’re creating a small alpha gradient around the cutoff value with the smoothstep function. The entire pixel shader looks like this:
 
-```
+```glsl
 precision mediump float;
 
 uniform sampler2D u_texture;
