@@ -3,18 +3,20 @@ layout: page
 title: 关于
 ---
 
-一个地图开发者、OpenStreetMap地图贡献者，热爱开源。关注移动平台的地图渲染、空间数据索引、数据挖掘和并行计算。
+一个地图开发者，专注于移动平台的地图渲染、空间数据索引，对数据挖掘、自然语言处理、机器学习和并行计算有着浓厚的兴趣。
 
-I think open data and open source are going to change everything. 
+OpenStreetMap地图贡献者。热爱开源。
+
+>I think open data and open source are going to change everything.
 
 ## 联系
 
-LinkedIn: <https://www.linkedin.com/in/hanchao0123>
+LinkedIn:<br><https://www.linkedin.com/in/hanchao0123>
 
-Github:          <https://github.com/hanchao>
+Github:<br><https://github.com/hanchao>
 
-微博:           <http://weibo.com/u/1076929083>
+微博:<br><http://weibo.com/u/1076929083>
 
-OpenStreetMap:   <http://www.openstreetmap.org/user/hanchao>
+OpenStreetMap:<br><http://www.openstreetmap.org/user/hanchao>
 
-邮件:            <hanchao0123@hotmail.com>
+邮件:<br><hanchao0123@hotmail.com>
