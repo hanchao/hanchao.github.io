@@ -5,6 +5,8 @@ title: 关于
 
 一个地图开发者、OpenStreetMap地图贡献者，热爱开源。关注移动平台的地图渲染、空间数据索引、数据挖掘和并行计算。
 
+I think open data and open source are going to change everything. 
+
 ## 联系
 
 LinkedIn: <https://www.linkedin.com/in/hanchao0123>
