@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 我的应用
+title: 项目
 ---
 
 ## Web
@@ -15,11 +15,21 @@ title: 我的应用
 
 ### GPSLogger
 
-iPhone上的轨迹记录软件，可添加标注，拍照，并分享轨迹到OSM上。
+iPhone上的轨迹记录软件
+
+特性： 可添加标注，拍照，并分享轨迹到OSM上。
 
 下载： [![App Store](http://linkmaker.itunes.apple.com/htmlResources/assets/images/web/linkmaker/badge_appstore-lrg.svg)](http://itunes.apple.com/us/app/gpslogger/id859076064?l=zh&ls=1&mt=8)
 
 代码： <https://github.com/hanchao/GPSLogger>
+
+### MapEditer
+
+iPhone上的OSM地图编辑软件
+
+特性： 目前支持添加POI和Note。
+
+代码： <https://github.com/hanchao/MapEditer>
 
 ## Android
 
