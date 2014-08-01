@@ -27,9 +27,17 @@ iPhone上的轨迹记录软件
 
 iPhone上的OSM地图编辑软件
 
-特性： 目前支持添加POI和Note。
+特性： 支持添加和编辑现有POI和Note。
 
 代码： <https://github.com/hanchao/MapEditer>
+
+### 豆瓣FM
+
+豆瓣FM iOS版
+
+特性： 随心听歌
+
+代码： <https://github.com/hanchao/DoubanFM>
 
 ## Android
 
