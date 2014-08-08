@@ -11,6 +11,12 @@ title: 项目
 
 [演示](/earth)
 
+## 矢量地图
+
+基于WebGL矢量地图
+
+[演示](/vectormap)
+
 ## iPhone
 
 ### GPSLogger
