@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "发现一个WebGL渲染的网站"
+date:   2013-06-20 17:57:30
+categories: OpenStreetMap WebGL
+---
+
+整体显示效果还不错，只是建筑物都是一样高的。想问在OSM中怎么表达高度呢。
+[http://map.f4-group.com/](http://map.f4-group.com/)
+![f4_map](http://hanchao.github.io/pic/f4_map.png)
