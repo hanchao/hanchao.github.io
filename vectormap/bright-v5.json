@@ -128,7 +128,7 @@
   "sources": {
     "mapbox": {
       "type": "vector",
-      "url": "mapbox://mapbox.mapbox-streets-v5"
+      "url": "mapbox://mapbox.mapbox-streets-v5",
       "maxzoom": 15
     }
   },
