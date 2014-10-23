@@ -4,8 +4,8 @@
     <meta charset='utf-8' />
     <title>矢量地图</title>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.2.2/mapbox-gl.css' rel='stylesheet' />
-    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.2.2/mapbox-gl.js'></script>
+	<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.3.1/mapbox-gl.css' rel='stylesheet' />
+	<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.3.1/mapbox-gl.js'></script>
     <style>
         body { margin:0; padding:0; }
         #map { position:absolute; top:0; bottom:0; width:100%; }
@@ -18,7 +18,7 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoiaGFuY2hhbyIsImEiOiI1RTIwNkkwIn0.ht9ldcZjv7VtmF41F7DhRg';
 var map = new mapboxgl.Map({
   container: 'map', // container id
-  style: 'style.json', //stylesheet location
+  style: 'bright-v5.json',
   center: [39.873521,116.392623], // starting position
   zoom: 9, // starting zoom
   hash: true
