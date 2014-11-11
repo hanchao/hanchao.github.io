@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "搭建OpenStreetMap切片服务"
+title:  "在ubuntu上搭建OpenStreetMap切片服务"
 date:   2014-11-10 15:17:24
 categories: Mapbox GL
 ---
