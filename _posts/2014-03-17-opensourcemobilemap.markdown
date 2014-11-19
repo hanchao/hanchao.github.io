@@ -19,7 +19,7 @@ mapbox-ios-sdk/route-me
 
 mapsforge
 
-<https://code.google.com/p/mapsforge/>
+<https://github.com/mapsforge/mapsforge>
 
 OsmSharp
 
