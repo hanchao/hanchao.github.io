@@ -11,9 +11,13 @@ osmdroid
 
 <https://github.com/osmdroid/osmdroid>
 
-mapbox-ios-sdk/route-me
+Mapbox iOS SDK
 
 <https://github.com/mapbox/mapbox-ios-sdk>
+
+Mapbox Android SDK
+
+<https://github.com/mapbox/mapbox-android-sdk>
 
 #### 矢量地图
 
@@ -24,6 +28,10 @@ mapsforge
 OsmSharp
 
 <https://github.com/OsmSharp/OsmSharp>
+
+Mapbox GL
+
+<https://github.com/mapbox/mapbox-gl-native>
 
 #### 导航
 
