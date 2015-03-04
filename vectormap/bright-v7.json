@@ -1,5 +1,6 @@
 {
-  "version": 6,
+  "version": 7,
+  "name": "Bright",
   "constants": {
     "@name": "{name}",
     "@sans": "Open Sans Regular, Arial Unicode MS Regular",
@@ -44,13 +45,7 @@
     "@poi_text_halo": "#ffffff",
     "@maki": "#666",
     "@point_translate": [0, -30],
-    "@tunnel_line_dasharray": [{
-      "base": 1.5,
-      "stops": [[12, 6], [20, 9]]
-    }, {
-      "base": 1.5,
-      "stops": [[12, 2], [20, 3]]
-    }],
+    "@tunnel_line_dasharray": [0.5, 0.25],
     "@motorway_width": {
       "base": 1.2,
       "stops": [[6.5, 0], [7, 0.5], [20, 18]]
@@ -98,13 +93,7 @@
       "base": 1.2,
       "stops": [[15, 1.2], [20, 4]]
     },
-    "@path_line_dasharray": [{
-      "base": 1.2,
-      "stops": [[15, 2], [20, 4]]
-    }, {
-      "base": 1.2,
-      "stops": [[15, 1], [20, 2]]
-    }],
+    "@path_line_dasharray": [1.5, 0.75],
     "@rail_width": {
       "base": 1.4,
       "stops": [[14, 0.4], [15, 0.75], [20, 2]]
@@ -113,7 +102,7 @@
       "base": 1.4,
       "stops": [[14.5, 0], [15, 3], [20, 8]]
     },
-    "@rail_hatch_line_dasharray": [2, 30],
+    "@rail_hatch_line_dasharray": [0.2, 8],
     "@admin_level_3_width": {
       "base": 1,
       "stops": [[4, 0.4], [5, 1], [12, 3]]
@@ -121,13 +110,13 @@
     "@admin_level_2_width": {
       "base": 1,
       "stops": [[4, 1.4], [5, 2], [12, 8]]
-    }
+    },
+    "@admin_level_3_dasharray": [3, 1, 1, 1]
   },
   "sources": {
     "mapbox": {
       "type": "vector",
-      "url": "mapbox://mapbox.mapbox-streets-v5",
-      "maxzoom": 15
+      "url": "mapbox://mapbox.mapbox-streets-v6"
     }
   },
   "sprite": "https://www.mapbox.com/mapbox-gl-styles/sprites/bright",
@@ -310,13 +299,10 @@
     "paint": {
       "fill-color": "@building",
       "fill-opacity": "@building_opacity",
-      "fill-translate": [{
-        "base": 1,
-        "stops": [[15, 0], [16, -2]]
-      }, {
-        "base": 1,
-        "stops": [[15, 0], [16, -2]]
-      }],
+      "fill-translate": {
+        "stops": [[15, [0, 0]], [16, [-2, -2]]],
+        "base": 1
+      },
       "fill-outline-color": "@building_shadow"
     }
   }, {
@@ -326,7 +312,6 @@
     "source-layer": "tunnel",
     "filter": ["==", "class", "motorway_link"],
     "layout": {
-      "line-cap": "round",
       "line-join": "round"
     },
     "paint": {
@@ -341,7 +326,6 @@
     "source-layer": "tunnel",
     "filter": ["==", "class", "service"],
     "layout": {
-      "line-cap": "round",
       "line-join": "round"
     },
     "paint": {
@@ -360,7 +344,7 @@
     },
     "paint": {
       "line-color": "@street_casing",
-      "line-dasharray": [7, 2],
+      "line-dasharray": "@tunnel_line_dasharray",
       "line-width": "@street_casing_width",
       "line-opacity": "@street_casing_opacity"
     }
@@ -371,7 +355,6 @@
     "source-layer": "tunnel",
     "filter": ["==", "class", "main"],
     "layout": {
-      "line-cap": "round",
       "line-join": "round"
     },
     "paint": {
@@ -386,7 +369,6 @@
     "source-layer": "tunnel",
     "filter": ["==", "class", "motorway"],
     "layout": {
-      "line-cap": "round",
       "line-join": "round"
     },
     "paint": {
@@ -736,7 +718,7 @@
     },
     "paint": {
       "line-color": "@admin",
-      "line-dasharray": [10, 3],
+      "line-dasharray": "@admin_level_3_dasharray",
       "line-width": "@admin_level_3_width"
     }
   }, {
@@ -764,7 +746,7 @@
     },
     "paint": {
       "line-color": "@admin",
-      "line-dasharray": [4, 4],
+      "line-dasharray": [2, 2],
       "line-width": "@admin_level_2_width"
     }
   }, {
@@ -779,7 +761,7 @@
     "paint": {
       "line-color": "@water",
       "line-opacity": "@admin-opacity",
-      "line-dasharray": [10, 3],
+      "line-dasharray": "@admin_level_3_dasharray",
       "line-width": "@admin_level_3_width"
     }
   }, {
@@ -795,15 +777,6 @@
       "line-color": "@water",
       "line-opacity": "@admin-opacity",
       "line-width": "@admin_level_2_width"
-    }
-  }, {
-    "id": "country_label_line",
-    "type": "line",
-    "source": "mapbox",
-    "source-layer": "country_label_line",
-    "paint": {
-      "line-color": "@text",
-      "line-opacity": 0.5
     }
   }, {
     "id": "country_label_1",
