@@ -4,8 +4,10 @@
     <meta charset='utf-8' />
     <title>矢量地图</title>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-	<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.11.2/mapbox-gl.css' rel='stylesheet' />
-	<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.11.2/mapbox-gl.js'></script>
+	<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.12.1/mapbox-gl.css' rel='stylesheet' />
+	<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.12.1/mapbox-gl.js'></script>
+	<script src='https://api.tiles.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v1.0.0/mapbox-gl-directions.js'></script>
+	<link rel='stylesheet' href='https://api.tiles.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v1.0.0/mapbox-gl-directions.css' type='text/css' />
     <style>
         body { margin:0; padding:0; }
         #map { position:absolute; top:0; bottom:0; width:100%; }
@@ -25,6 +27,8 @@ var map = new mapboxgl.Map({
 });
 
 map.addControl(new mapboxgl.Navigation());
+map.addControl(new mapboxgl.Directions);
+
 </script>
 
 </body>
