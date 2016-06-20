@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:      rouge
+gems:             [jekyll-paginate,redcarpet]
 
 # Permalinks
 permalink:        pretty
