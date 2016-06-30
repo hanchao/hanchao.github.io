@@ -45,7 +45,7 @@ categories: rails
 
 http://localhost:3000
 
-![rails](../../../../pic/rails1.png)
+![rails](/pic/rails1.png)
 
 
 停止服务
@@ -70,7 +70,7 @@ http://localhost:3000/photos
 
 在这里你可以对photos表进行操作，我已经添加了两条记录。
 
-![rails](../../../../pic/rails2.png)
+![rails](/pic/rails2.png)
 
 另外还可以通过 http://localhost:3000/photos.json 得到json格式的数据
 
@@ -91,14 +91,14 @@ mytest目录下有下面几个重要的文件
 
 `app/models` 里面  photo.rb ，里面是个对应photo表的类
 
-![rails](../../../../pic/rails3.png)
+![rails](/pic/rails3.png)
 
 `app/views` 里面包含一个photos的文件夹，在里面就是显示、添加、修改、删除等html界面
 
-![rails](../../../../pic/rails4.png)
+![rails](/pic/rails4.png)
 
 `app/controllers` 里面有个叫 photos_controller.rb，里面包含对 photo表的显示、添加、修改、删除等操作。
 
-![rails](../../../../pic/rails5.png)
+![rails](/pic/rails5.png)
 
 这些就是完成上面功能的核心。

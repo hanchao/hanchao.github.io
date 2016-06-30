@@ -53,7 +53,7 @@ Cesium的API简洁、文档比较丰富，根据 Getting Started 即可快速实
         imageryProvider : osm});
 	```
 
-	可参见 [我的demo](../../../../earth/index.html)
+	可参见 [我的demo](/earth/index.html)
 
 
-	![demo](../../../../pic/CesiumDemo.png)
+	![demo](/pic/CesiumDemo.png)

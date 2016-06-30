@@ -40,7 +40,7 @@ nginx
 
 `http://10.15.5.51:8010/`
 
-![nginx](../../../../pic/nginx.png)
+![nginx](/pic/nginx.png)
 
 关闭web服务
 

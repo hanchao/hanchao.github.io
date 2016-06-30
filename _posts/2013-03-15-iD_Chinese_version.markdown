@@ -7,7 +7,7 @@ categories: OpenStreetMap
 
 ID编辑器非常棒，我把给他贡献了中文翻译。
 
-![iD](../../../../pic/iD_in_Chinese.png)
+![iD](/pic/iD_in_Chinese.png)
 
 我的iD版本 ：
 [http://hanchao.github.com/iD](http://hanchao.github.com/iD)

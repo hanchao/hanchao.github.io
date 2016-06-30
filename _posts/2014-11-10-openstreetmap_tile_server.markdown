@@ -42,7 +42,7 @@ categories: Mapbox GL
 
 <http://localhost/osm/0/0/0.png>
 
-![slippymap](../../../../pic/openstreetmap_tile_server.png)
+![slippymap](/pic/openstreetmap_tile_server.png)
 
 PS: 如果地图显示不出来，查看渲染的日志
 

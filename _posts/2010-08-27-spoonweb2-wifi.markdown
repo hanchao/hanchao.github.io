@@ -9,6 +9,6 @@ categories: spoonweb2
 
 有图为证
 
-![spoonwep2](../../../../pic/spoonwep2.png)
+![spoonwep2](/pic/spoonwep2.png)
 
 最下面的红色【】之间是就是密码（ACSII表示，查表去吧）

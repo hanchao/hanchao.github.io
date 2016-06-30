@@ -25,7 +25,7 @@ categories: instavpn ec2
 
 现在就可以连接我们的VPN了。
 
-![vpn](../../../../pic/vpn1.png)
+![vpn](/pic/vpn1.png)
 
-![vpn](../../../../pic/vpn2.png)
+![vpn](/pic/vpn2.png)
 

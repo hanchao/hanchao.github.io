@@ -11,42 +11,42 @@ categories: minimap
 
 浏览地图  
 
-![minimap](../../../../pic/minimap1.png)
+![minimap](/pic/minimap1.png)
 
 随时随地浏览全国多达300多个城市的详细电子地图。
 
 地点搜索
 
-![minimap](../../../../pic/minimap2.png)
+![minimap](/pic/minimap2.png)
 
 输入地点名称，即可立即找到它在地图中的位置，更有地址、联系电话等详细信息。
 
 路径规划
 
-![minimap](../../../../pic/minimap3.png)
+![minimap](/pic/minimap3.png)
 
 智能规划出行路线，包括自驾、公交、打车和步行的路线，方便您的出行。
 
 周边查询
 
-![minimap](../../../../pic/minimap4.png)
+![minimap](/pic/minimap4.png)
 
 支持搜索地图上任意位置的周边生活设施，如餐饮、商场、网吧、旅店等等。
 
 GPS
 
-![minimap](../../../../pic/minimap5.jpeg)
+![minimap](/pic/minimap5.jpeg)
 
 支持GPS定位和跟踪功能，可以基于GPS位置进行周边查询和路线规划。 （我的手机没GPS，要用的话只能到公司借个蓝牙GPS模块来玩）
 
 实时交通
 
-![minimap](../../../../pic/minimap6.png)
+![minimap](/pic/minimap6.png)
 
 支持查看北京、上海、广州等城市市区的实时交通状况，让您在出行时可以选择最畅通的路线。
 
 实用工具
 
-![minimap](../../../../pic/minimap7.png)
+![minimap](/pic/minimap7.png)
 
 包括城市天气预报、公交查询、列车查询、航班查询等实用的工具。

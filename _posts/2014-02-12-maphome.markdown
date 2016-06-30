@@ -9,7 +9,7 @@ categories: mapper
 
 mapbox上的效果还是很不错的。
 
-![map](../../../../pic/MapHome.png)
+![map](/pic/MapHome.png)
 
 添加自定义图层
 
