@@ -70,7 +70,7 @@ osmosis --read-replication-interval-init
 
 这里会生成configuration.txt文件，修改其中的BaseURL
 
-`baseUrl=http://download.geofabrik.de/asia/china-updates/``
+`baseUrl=http://download.geofabrik.de/asia/china-updates/`
 
 下载当天的state.txt
 
