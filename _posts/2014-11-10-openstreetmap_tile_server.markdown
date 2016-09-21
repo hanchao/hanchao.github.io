@@ -46,7 +46,7 @@ categories: Mapbox GL
 
 PS: 如果地图显示不出来，查看渲染的日志
 
-tail -f /var/log/syslog |grep renderd
+`tail -f /var/log/syslog |grep renderd`
 
 数据更新
 
@@ -73,7 +73,8 @@ osmosis --read-replication-interval-init
 `baseUrl=http://download.geofabrik.de/asia/china-updates/``
 
 下载当天的state.txt
-｀wget http://download.geofabrik.de/asia/china-updates/state.txt｀
+
+`wget http://download.geofabrik.de/asia/china-updates/state.txt`
 
 以后每天执行更新
 
