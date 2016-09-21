@@ -58,13 +58,30 @@ mod-tile中提供了增量数据更新工具openstreetmap-tiles-update-expire。
 
 下载增量数据，`http://planet.openstreetmap.org/replication/`可以找到每天、没小时和每分钟的增量更新包。部分区域每天更新的更新包可以从`http://download.geofabrik.de/asia/china-updates/`下载。
 
-导入增量数据
+安装osmosis
 
-`osm2pgsql --append --slim -C 100 --cache-strategy sparse --number-processes 1 788.osc.gz`
+初始化更新配置
 
-设置数据导入时间
+```
+mkdir WORKDIR
+cd WORKDIR
+osmosis --read-replication-interval-init
+```
 
-`sudo touch /var/lib/mod_tile/planet-import-complete`
+这里会生成configuration.txt文件，修改其中的BaseURL
+
+`baseUrl=http://download.geofabrik.de/asia/china-updates/``
+
+下载当天的state.txt
+｀wget http://download.geofabrik.de/asia/china-updates/state.txt｀
+
+以后每天执行更新
+
+```
+osmosis --read-replication-interval --simplify-change --write-xml-change changes.osc.gz
+osm2pgsql --append --slim -C 100 --cache-strategy sparse --number-processes 1 changes.osc.gz
+sudo touch /var/lib/mod_tile/planet-import-complete
+```
 
 * 完全更新
 
