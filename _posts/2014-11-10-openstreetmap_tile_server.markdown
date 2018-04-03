@@ -19,7 +19,7 @@ categories: Mapbox GL
 
 这里会进行配置并创建数据库，需要注意的是，导入数据是需要使用这个用户操作。如果没有配置不对，可以通过`sudo dpkg-reconfigure openstreetmap-postgis-db-setup`重新配置。我这里加上了当前用户，如www-data,ubuntu。
 
-下载osm数据，全球数据可以到<http://planet.openstreetmap.org>下载，同时<http://download.geofabrik.de>为我们提供了不同国家的小数据。我只下载了中国的
+下载osm数据，全球数据可以到<https://planet.openstreetmap.org>下载，同时<http://download.geofabrik.de>为我们提供了不同国家的小数据。我只下载了中国的
 
 `wget http://download.geofabrik.de/asia/china-latest.osm.pbf`
 
@@ -56,7 +56,7 @@ mod-tile中提供了增量数据更新工具openstreetmap-tiles-update-expire。
 
 * 增量更新
 
-下载增量数据，`http://planet.openstreetmap.org/replication/`可以找到每天、没小时和每分钟的增量更新包。部分区域每天更新的更新包可以从`http://download.geofabrik.de/asia/china-updates/`下载。
+下载增量数据，`https://planet.openstreetmap.org/replication/`可以找到每天、没小时和每分钟的增量更新包。部分区域每天更新的更新包可以从`http://download.geofabrik.de/asia/china-updates/`下载。
 
 安装osmosis
 
