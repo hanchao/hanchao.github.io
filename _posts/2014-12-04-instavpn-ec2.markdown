@@ -9,8 +9,6 @@ categories: instavpn ec2
 
 `the most user-friendly L2TP/IPsec VPN server`
 
-![instavpn](http://sockeye.cc/img/instavpn.png)
-
 通过ssh连接上的我的ec2主机。
 
 安装instavpn
