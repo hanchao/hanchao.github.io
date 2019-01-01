@@ -19,13 +19,13 @@ title: 项目
 
 基于WebGL的三维地球
 
-[演示](/earth)
+[demo](/earth)
 
 ## 矢量地图
 
 基于WebGL矢量地图
 
-[演示](/vectormap)
+[demo](/vectormap)
 
 ## iPhone
 
