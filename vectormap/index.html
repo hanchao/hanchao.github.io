@@ -4,10 +4,10 @@
     <meta charset='utf-8' />
     <title>矢量地图</title>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-	<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.css' rel='stylesheet' />
-	<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.js'></script>
-	<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v3.1.1/mapbox-gl-directions.js'></script>
-	<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v3.1.1/mapbox-gl-directions.css' type='text/css' />
+	<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.52.0/mapbox-gl.css' rel='stylesheet' />
+	<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.52.0/mapbox-gl.js'></script>
+	<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.0.0/mapbox-gl-directions.js'></script>
+	<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.0.0/mapbox-gl-directions.css' type='text/css' />
     <style>
         body { margin:0; padding:0; }
         #map { position:absolute; top:0; bottom:0; width:100%; }
@@ -20,7 +20,7 @@
 mapboxgl.accessToken = 'pk.eyJ1IjoiaGFuY2hhbyIsImEiOiI1RTIwNkkwIn0.ht9ldcZjv7VtmF41F7DhRg';
 var map = new mapboxgl.Map({
   container: 'map', // container id
-  style: 'mapbox://styles/hanchao/cisbnoujk001e2xodf1jlwgtq',
+  style: 'mapbox://styles/mapbox/streets-v9',
   center: [116.392623, 39.873521], // starting position
   zoom: 9, // starting zoom
   hash: true,
